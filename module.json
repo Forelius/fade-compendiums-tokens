@@ -1,0 +1,50 @@
+{
+  "id": "fade-compendiums-tokens",
+  "title": "Fantastic Depths Compendiums Tokens",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "13",
+    "maximum": "14"
+  },
+  "description": "<p><strong>Fantastic Depths Compendiums Tokens</strong></p><p>Token artwork for Fantastic Depths monsters, applied automatically to fade-compendiums actors when this module is enabled.</p>",
+  "authors": [
+    {
+      "name": "Jojop",
+      "discord": "jojop3000",
+      "flags": {}
+    },
+    {
+      "name": "forelius",
+      "discord": "forelius",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "fantastic-depths",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "requires": [
+      {
+        "id": "fade-compendiums",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "flags": {
+    "compendiumArtMappings": {
+      "fantastic-depths": {
+        "mapping": "modules/fade-compendiums-tokens/map-fantastic-depths.json",
+        "credit": "<em>Token artwork for Fantastic Depths Compendiums.</em>"
+      }
+    }
+  },
+  "url": "",
+  "manifest": "",
+  "download": ""
+}

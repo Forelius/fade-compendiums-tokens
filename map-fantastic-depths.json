@@ -1,0 +1,4765 @@
+{
+  "fade-compendiums.actor-compendium": {
+    "tfIYJfMcVa8AIjyd": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Actaeon/Actaeon*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Actaeon/Actaeon (1).webp"
+    },
+    "B0Dxj0TPVmCR2uHk": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Adaptor/Adaptor*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Adaptor/Adaptor (1).webp"
+    },
+    "OlYmiMKOeZtTim0B": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Aerial Servant/AerialServant*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Aerial Servant/AerialServant (1).webp"
+    },
+    "ScSV1GwwMG8SLXBV": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Elk/Elk*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Elk/ElkForest (1).webp"
+    },
+    "Qs4gN2CgWpZDGLig": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Elk/Elk*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Elk/ElkForest (1).webp"
+    },
+    "ZHORkcj3Jp2d9aIr": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Elk/Elk*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Elk/ElkForest (1).webp"
+    },
+    "Hktyl676CO9F2CqQ": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Elk/Elk*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Elk/ElkForest (1).webp"
+    },
+    "otZUUPhZJg7J9xnS": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Ant, Giant/Ant, Giant*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Ant, Giant/Ant, Giant (1).webp"
+    },
+    "R3XEgFCArEXKmolX": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Ape/Ape*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Ape/Ape (1).webp"
+    },
+    "mqQUEpLtIFtwsKuW": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Ape/Ape*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Ape/Ape (1).webp"
+    },
+    "I7I2SHshQYBsEWNe": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Archon/Female/Female*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Archon/Female/Female (1).webp"
+    },
+    "SMUlvN2u22PfD5hb": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Archon/Male/Male*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Archon/Male/Male (1).webp"
+    },
+    "hdpWB3TR1l3v5kLD": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Athach/Athach*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Athach/Athach (1).webp"
+    },
+    "Qe73A22rHMxP1J6m": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Baboon/Baboon*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Baboon/Baboon (1).webp"
+    },
+    "rqWVOdrALlCdouwK": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Basilisk/Basilisk*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Basilisk/Basilisk (1).webp"
+    },
+    "n50z0ac3B0zwsLQp": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Bat/Bat*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Bat/Bat (1).webp"
+    },
+    "euonV2guGYdGcJQV": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Bat/GiantBat*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Bat/GiantBat (1).webp"
+    },
+    "LN2Pk0HK66twdjGu": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Bat/Bat*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Bat/Bat (1).webp"
+    },
+    "uAvXxrqpfyTcNBay": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Black Bear/BlackBear*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Black Bear/BlackBearAgressive (1).webp"
+    },
+    "8VEfACdfqwkmVYvv": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Cave Bear/CaveBear*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Cave Bear/CaveBear (1).webp"
+    },
+    "YXnLqKFkmdFTHdtC": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Brown Bear/BrownBear*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Brown Bear/BrownBearCave (1).webp"
+    },
+    "US9bbL6db8T16FgG": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Polar Bear/PolarBear*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Polar Bear/PolarBear (1).webp"
+    },
+    "lHxxKhgL4bbUWZw7": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Wasp/GiantWasp*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Wasp/GiantWaspBeehive (1).webp"
+    },
+    "M5ibRbXxderc9wbC": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Wasp/GiantWasp*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Wasp/GiantWaspBeehive (1).webp"
+    },
+    "6FcQ2B2dG5LRvwTC": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Fire Beetle/GiantFireBeetle*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Fire Beetle/GiantFireBeetle (1).webp"
+    },
+    "L8SJUT3fIzJw6xlK": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Fire Beetle/GiantFireBeetle*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Fire Beetle/GiantFireBeetle (1).webp"
+    },
+    "AL9hNMkeO2mhlUGU": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Fire Beetle/GiantFireBeetle*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Fire Beetle/GiantFireBeetle (1).webp"
+    },
+    "H189S0a8G0bThNfy": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Beholder Zombie/BeholderZombie*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Beholder Zombie/BeholderZombie (1).webp"
+    },
+    "TiDwqTfBvfJop4IF": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Beholder/Beholder*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Beholder/Beholder (1).webp"
+    },
+    "cjl2DDVWOQAbTY24": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Blackball/Blackball*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Blackball/Blackball (1).webp"
+    },
+    "B5efkZ8PvLYT0tD5": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Black Pudding/BlackPudding*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Black Pudding/BlackPudding (1).webp"
+    },
+    "uM5nukRRjxzU9Wpc": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Gas Spore/GasSpore*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Gas Spore/GasSpore (1).webp"
+    },
+    "QyDZ7pag954K5Xam": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Blink Dog/BlinkDog*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Blink Dog/BlinkDogRunning (1).webp"
+    },
+    "XjniW8q1ALn5MYsZ": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Boar/GiantBoar*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Boar/GiantBoarSummer (1).webp"
+    },
+    "WjjNYqNlATmZeytu": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Boar/BoarF*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Boar/BoarField (1).webp"
+    },
+    "5px1PtF3VqfpotTy": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Bugbear/Bugbear*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Bugbear/Bugbear (1).webp"
+    },
+    "lYgXYeUclfcLHsrg": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Caecilia/Caecilia*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Caecilia/Caecilia (1).webp"
+    },
+    "yuscgQo8thsyp6HP": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Canine/Dog/Dog*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Canine/Dog/Dog (1).webp"
+    },
+    "PKRKEirB2MKZqRXd": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Canine/Dog/Dog*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Canine/Dog/Dog (1).webp"
+    },
+    "qFxGSfacvoqlSoD7": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Canine/Fox/Fox*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Canine/Fox/Fox (1).webp"
+    },
+    "4PUXUMLbZwb9SaDM": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Canine/Dire Wolf/DireWolfSummer*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Canine/Dire Wolf/DireWolfSummer (1).webp"
+    },
+    "WKbSIoK7it7NgLXg": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Canine/Wolf/Wolf*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Canine/Wolf/Wolf (1).webp"
+    },
+    "93HCqREXiA2BbHR1": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Carrion Crawler/CarrionCrawler*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Carrion Crawler/CarrionCrawler (1).webp"
+    },
+    "MXaa5C4ch4uLG2F4": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lion/Lion*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lion/LionFemale (1).webp"
+    },
+    "FCwq2STi6myei4hU": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Panther/Panther*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Panther/Panther (1).webp"
+    },
+    "5e9ubDSrAn1y3y2n": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Panther/Panther*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Panther/Panther (1).webp"
+    },
+    "5mRW0PyWXM3NyF9C": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Saber-Toothed Tiger/SaberToothedTiger*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Saber-Toothed Tiger/SaberToothedTigerArctic (1).webp"
+    },
+    "m2ikW85KDtolURpU": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Tiger/Tiger*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Tiger/Tiger (1).webp"
+    },
+    "Ta2HEFfce6G1k3g8": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Centaur/Centaur*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Centaur/CentaurFemaleMelee (1).webp"
+    },
+    "g6XIqtw7I815FigN": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Centipede/GiantCentipede*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Centipede/GiantCentipede (1).webp"
+    },
+    "VWs3X9tU2MUzc2pK": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Chimera/Chimera*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Chimera/Chimera (1).webp"
+    },
+    "v4aafWntVG3WedsQ": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Cockatrice/Cockatrice*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Cockatrice/Cockatrice (1).webp"
+    },
+    "LOXvSIZsdvix1Avc": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Crab/Crab*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Crab/CrabCoast (1).webp"
+    },
+    "2FAwEsA0yvXQ8BeR": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Crocodile/CrocodileS*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Crocodile/CrocodileSewers (1).webp"
+    },
+    "TYB76cjIxKDauCV9": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Crocodile/CrocodileS*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Crocodile/CrocodileSewers (1).webp"
+    },
+    "Bp8x1u6QAFJvc1vU": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Crocodile/CrocodileS*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Crocodile/CrocodileSewers (1).webp"
+    },
+    "uovYjpSokQFpPqKq": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Cyclops/Cyclops*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Cyclops/CyclopsFemaleDesert (1).webp"
+    },
+    "8ZbYKPLbUKWoPxg3": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Devilfish/Devilfish*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Devilfish/Devilfish (1).webp"
+    },
+    "0LYCmNOCNUA5UlQr": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Devilfish/Devilfish*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Devilfish/Devilfish (1).webp"
+    },
+    "BgRPeAqrln4x04YL": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Devilfish/Devilfish*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Devilfish/Devilfish (1).webp"
+    },
+    "A91neEFK2KLKRxog": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Devilfish/Devilfish*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Devilfish/Devilfish (1).webp"
+    },
+    "e1TvUEVv2JEZJm7c": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Devilfish/Devilfish*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Devilfish/Devilfish (1).webp"
+    },
+    "hhvjyEeP5h3hDjIT": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Devilfish/Devilfish*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Devilfish/Devilfish (1).webp"
+    },
+    "bJgO6mEYrhvNz8HS": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Dinosaur/Allosaurus/Allosaurus*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Dinosaur/Allosaurus/Allosaurus (1).webp"
+    },
+    "I3Z79cL0CFqh3pJn": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Dinosaur/Ankylosaurus/Ankylosaurus*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Dinosaur/Ankylosaurus/Ankylosaurus (1).webp"
+    },
+    "ZDGZh83ow62zhhHi": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Dinosaur/Brontosaurus/Brontosaurus*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Dinosaur/Brontosaurus/Brontosaurus (1).webp"
+    },
+    "YhQjQ46MNqGwKU15": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Dinosaur/Armored Aquatic/Armored Aquatic*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Dinosaur/Armored Aquatic/Armored Aquatic (1).webp"
+    },
+    "v5TeihlknxR3Cd1v": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Dinosaur/Flying Carnivorous/Flying Carnivorous*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Dinosaur/Flying Carnivorous/Flying Carnivorous (1).webp"
+    },
+    "zYly8wMfNKHfYs5N": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Dinosaur/Large Aquatic/Large Aquatic*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Dinosaur/Large Aquatic/Large Aquatic (1).webp"
+    },
+    "gPBmBJMEORdJVvuL": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Dinosaur/Large Carnivorous/Large Carnivorous*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Dinosaur/Large Carnivorous/Large Carnivorous (1).webp"
+    },
+    "9GcMIltT98LVqRbD": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Dinosaur/Large Herbivore/Large Herbivore*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Dinosaur/Large Herbivore/Large Herbivore (1).webp"
+    },
+    "mPYYdcN7xg9iKpjx": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Dinosaur/Medium Herbivore/Medium Herbivore*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Dinosaur/Medium Herbivore/Medium Herbivore (1).webp"
+    },
+    "UdfRsOKiWaiPNUPw": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Dinosaur/Small Aquatic/Small Aquatic*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Dinosaur/Small Aquatic/Small Aquatic (1).webp"
+    },
+    "x5z9ER9RfXBw1zo8": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Dinosaur/Small Carnivorous/Small Carnivorous*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Dinosaur/Small Carnivorous/Small Carnivorous (1).webp"
+    },
+    "wVPMUdPKxc9ZGcHo": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Dinosaur/Small Herbivore/Small Herbivore*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Dinosaur/Small Herbivore/Small Herbivore (1).webp"
+    },
+    "K5KJHZrBNm3uqqqN": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Dinosaur/Plesiosaurus/Plesiosaurus*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Dinosaur/Plesiosaurus/Plesiosaurus (1).webp"
+    },
+    "9QvqypcszGRWppDB": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Dinosaur/Pterosaur Large/Pterosaur Large*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Dinosaur/Pterosaur Large/Pterosaur Large (1).webp"
+    },
+    "tgQEWSWbRBRDiEKj": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Dinosaur/Pteranodon/Pteranodon*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Dinosaur/Pteranodon/Pteranodon (1).webp"
+    },
+    "8Of6kVwUxSSJS6ZL": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Dinosaur/Pterodactyl/Pterodactyl*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Dinosaur/Pterodactyl/Pterodactyl (1).webp"
+    },
+    "DWL3quzcjtKXVA3U": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Dinosaur/Triceratops/Triceratops*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Dinosaur/Triceratops/Triceratops (1).webp"
+    },
+    "C1ja5aJldxd0PnIv": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Dinosaur/Tyrannosaurus Rex/TyrannosaurusRex*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Dinosaur/Tyrannosaurus Rex/TyrannosaurusRex (1).webp"
+    },
+    "eA4eRFSfiBxY19ll": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Displacer Beast/DisplacerBeast*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Displacer Beast/DisplacerBeast (1).webp"
+    },
+    "rmvpPfpZW3hW5CJd": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Djinni/Djinni*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Djinni/Djinni (1).webp"
+    },
+    "5dQIF5qOnyrh6br4": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Djinni/Djinni*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Djinni/Djinni (1).webp"
+    },
+    "Y6QIu1phRPJuCJwj": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Dolphin/Dolphin*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Dolphin/Dolphin (1).webp"
+    },
+    "StmKdEWX0dDnGDbj": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Doppelganger/Doppelganger*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Doppelganger/Doppelganger (1).webp"
+    },
+    "o4fvBDEb75hQz3Cb": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Young Black Dragon/YoungBlackDragon*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Young Black Dragon/YoungBlackDragon (1).webp"
+    },
+    "0EtAFVM6AeCZVUek": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Young Black Dragon/YoungBlackDragon*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Young Black Dragon/YoungBlackDragon (1).webp"
+    },
+    "e5RafGI3Ufyu1cVs": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Black Dragon Wyrmling/BlackDragonWyrmling*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Black Dragon Wyrmling/BlackDragonWyrmling (1).webp"
+    },
+    "0YHhsLFEOOu1lY88": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Young Blue Dragon/YoungBlueDragon*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Young Blue Dragon/YoungBlueDragon (1).webp"
+    },
+    "fKlh8fMrqS8i1yzg": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Young Blue Dragon/YoungBlueDragon*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Young Blue Dragon/YoungBlueDragon (1).webp"
+    },
+    "UttRCxBQVIDdhQsd": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Blue Dragon Wyrmling/BlueDragonWyrmling*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Blue Dragon Wyrmling/BlueDragonWyrmling (1).webp"
+    },
+    "1IEPooTD2M81A1KI": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Young Gold Dragon/YoungGoldDragon*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Young Gold Dragon/YoungGoldDragon (1).webp"
+    },
+    "y1mQX4M62INdfeZj": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Young Gold Dragon/YoungGoldDragon*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Young Gold Dragon/YoungGoldDragon (1).webp"
+    },
+    "hwFaPQEh5xg7k1Aa": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Gold Dragon Wyrmling/GoldDragonWyrmling*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Gold Dragon Wyrmling/GoldDragonWyrmling (1).webp"
+    },
+    "U4mHHB1kxhLqSeRb": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Young Green Dragon/YoungGreenDragon*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Young Green Dragon/YoungGreenDragon (1).webp"
+    },
+    "yuvekRth5f9hs5FG": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Young Green Dragon/YoungGreenDragon*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Young Green Dragon/YoungGreenDragon (1).webp"
+    },
+    "DXetjL8gZnouFVXR": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Green Dragon Wyrmling/GreenDragonWyrmling*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Green Dragon Wyrmling/GreenDragonWyrmling (1).webp"
+    },
+    "427IcdQRRKlAjeLF": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Young Red Dragon/YoungRedDragon*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Young Red Dragon/YoungRedDragon (1).webp"
+    },
+    "n2pdubQj3Lw9M7Xp": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Young Red Dragon/YoungRedDragon*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Young Red Dragon/YoungRedDragon (1).webp"
+    },
+    "WTlvfSJxGCjCtf7Z": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Red Dragon Wyrmling/RedDragonWyrmling*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Red Dragon Wyrmling/RedDragonWyrmling (1).webp"
+    },
+    "0AEPnZ6fzo0Ht24g": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Young White Dragon/YoungWhiteDragon*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Young White Dragon/YoungWhiteDragon (1).webp"
+    },
+    "AvBsRLh9aJ0La8sG": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Young White Dragon/YoungWhiteDragon*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Young White Dragon/YoungWhiteDragon (1).webp"
+    },
+    "U8maEWtU7rWKYg13": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/White Dragon Wyrmling/WhiteDragonWyrmling*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/White Dragon Wyrmling/WhiteDragonWyrmling (1).webp"
+    },
+    "d3OYgXsZQrG37iGk": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Dragon Turtle/DragonTurtle*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Dragon Turtle/DragonTurtle (1).webp"
+    },
+    "Lq1cgfUP0dHSxcKz": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Young White Dragon/YoungWhiteDragon*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Young White Dragon/YoungWhiteDragon (1).webp"
+    },
+    "RQC1zOJrm2eU3BHS": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Young Red Dragon/YoungRedDragon*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Young Red Dragon/YoungRedDragon (1).webp"
+    },
+    "cpfHDocoBNGKAr1I": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Faerie Dragon/FaerieDragon*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Faerie Dragon/FaerieDragonBlue (1).webp"
+    },
+    "tMsCaqp9x8zXRgSX": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Young Green Dragon/YoungGreenDragon*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Young Green Dragon/YoungGreenDragon (1).webp"
+    },
+    "LKJMDUDSAHFOXQIV": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Drolem/Drolem*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Drolem/Drolem (1).webp"
+    },
+    "m3T1Rmvx6j2UB9gQ": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Dryad/Dryad*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Dryad/Dryad (1).webp"
+    },
+    "guUudtbBiSD4tSFN": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Dwarf/Dwarf*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Dwarf/Dwarf (1).webp"
+    },
+    "HWOPi9LeCcJY2qoW": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Efreeti/Efreeti*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Efreeti/Efreeti (1).webp"
+    },
+    "7Tn6jB63dFj6MA2L": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Efreeti/Efreeti*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Efreeti/Efreeti (1).webp"
+    },
+    "fp2DwGMWmXFOsKdb": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Air Elemental/AirElemental*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Air Elemental/AirElementalDessert (1).webp"
+    },
+    "qDZftV7pu1Q7Mntu": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Air Elemental/AirElemental*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Air Elemental/AirElementalDessert (1).webp"
+    },
+    "KjOoIPa0T41AzAoZ": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Air Elemental/AirElemental*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Air Elemental/AirElementalDessert (1).webp"
+    },
+    "ho5teMwpZxIf8VLP": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Air Elemental/AirElemental*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Air Elemental/AirElementalDessert (1).webp"
+    },
+    "fyHktie34gnPyjHA": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Earth Elemental/EarthElemental*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Earth Elemental/EarthElemental (1).webp"
+    },
+    "wC7AjxLBNNQj9EcV": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Earth Elemental/EarthElemental*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Earth Elemental/EarthElemental (1).webp"
+    },
+    "EyR0m8wAgIlbK0GG": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Earth Elemental/EarthElemental*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Earth Elemental/EarthElemental (1).webp"
+    },
+    "XTzwjHdvTx9h4tPF": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Earth Elemental/EarthElemental*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Earth Elemental/EarthElemental (1).webp"
+    },
+    "Qvih0BeMIPkF6KkO": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Fire Elemental/FireElemental*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Fire Elemental/FireElemental (1).webp"
+    },
+    "4VpP3DM3A6IGqOzQ": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Fire Elemental/FireElemental*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Fire Elemental/FireElemental (1).webp"
+    },
+    "qcsttv3yDyLuONBW": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Fire Elemental/FireElemental*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Fire Elemental/FireElemental (1).webp"
+    },
+    "2jRo5g6hy0o07HyF": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Fire Elemental/FireElemental*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Fire Elemental/FireElemental (1).webp"
+    },
+    "lrMXxWF9EjZD6qiK": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Water Elemental/WaterElemental*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Water Elemental/WaterElementalSea (1).webp"
+    },
+    "oL0gGtdW4hR2SOjC": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Water Elemental/WaterElemental*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Water Elemental/WaterElementalSea (1).webp"
+    },
+    "92D5yNzmEFDIipuX": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Water Elemental/WaterElemental*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Water Elemental/WaterElementalSea (1).webp"
+    },
+    "BK8mtxr7LUZ6CXCn": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Water Elemental/WaterElemental*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Water Elemental/WaterElementalSea (1).webp"
+    },
+    "6ywlI8hyrvMzkfTW": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Air Elemental/AirElemental*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Air Elemental/AirElementalDessert (1).webp"
+    },
+    "qpNdU8Rqtdco42oH": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Earth Elemental/EarthElemental*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Earth Elemental/EarthElemental (1).webp"
+    },
+    "Ei2iWY6y5gfzUjQ1": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Fire Elemental/FireElemental*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Fire Elemental/FireElemental (1).webp"
+    },
+    "MwUxiFwh3BazTl95": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Water Elemental/WaterElemental*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Water Elemental/WaterElementalSea (1).webp"
+    },
+    "HSt0o0oNJm5Gdb7Z": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Elephant/Elephant*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Elephant/ElephantGrassland (1).webp"
+    },
+    "ud1jbch6xSmc7NSs": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Mammoth/Mammoth*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Mammoth/Mammoth (1).webp"
+    },
+    "9pUF0lH2A71umXg0": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Elf/ThugElf*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Elf/ThugElfFemaleMelee (1).webp"
+    },
+    "7mEcQw80ZVlnuptU": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Elf/ThugElf*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Elf/ThugElfFemaleMelee (1).webp"
+    },
+    "JXEfZmQdVblAKpFR": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Elf/ThugElf*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Elf/ThugElfFemaleMelee (1).webp"
+    },
+    "3qHM19HNZODBuAc4": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Pixie/Pixie*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Pixie/PixieFemale (1).webp"
+    },
+    "zpdNz0fH5UWQD5WR": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Weasel/GiantWeasel*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Weasel/GiantWeaselForest (1).webp"
+    },
+    "R85BPsR5t0rblkkq": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Fish, Giant/Fish, Giant*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Fish, Giant/Fish, Giant (1).webp"
+    },
+    "DN7dd4SxPbS2ukf4": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Fish, Giant/Fish, Giant*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Fish, Giant/Fish, Giant (1).webp"
+    },
+    "ixzgD3qZbwon9nJu": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Fish, Giant/Fish, Giant*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Fish, Giant/Fish, Giant (1).webp"
+    },
+    "y0fthE0fw8kPg4cg": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Carrion Crawler/CarrionCrawler*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Carrion Crawler/CarrionCrawler (1).webp"
+    },
+    "gunsXxH5g8QQde2N": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Gargoyle/Gargoyle*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Gargoyle/Gargoyle (1).webp"
+    },
+    "XTAZMjozP1lbeHam": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Troll/Troll*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Troll/TrollMountains (1).webp"
+    },
+    "rkGvs3K7rorFT3Gb": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Gargoyle/Gargoyle*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Gargoyle/Gargoyle (1).webp"
+    },
+    "SWp5CtREyIQOwrPt": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Gelatinous Cube/GelatinousCube*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Gelatinous Cube/GelatinousCubeInvisible (1).webp"
+    },
+    "axQLZuNtlLVuaZ4B": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Ghoul/Ghoul*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Ghoul/GhoulFemale (1).webp"
+    },
+    "dSKdjBvM6fUkKoy1": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giants/Cloud/Cloud*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giants/Cloud/Cloud (1).webp"
+    },
+    "6SVJaWShHDf6U54R": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giants/Fire/Fire*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giants/Fire/Fire (1).webp"
+    },
+    "BgDcOHy8nmiAih3z": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giants/Frost/Frost*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giants/Frost/Frost (1).webp"
+    },
+    "UFb21ansA4HP2roM": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giants/Hill/Hill*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giants/Hill/Hill (1).webp"
+    },
+    "sPbJKcpv4Q6sSp0E": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giants/Mountain/Mountain*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giants/Mountain/Mountain (1).webp"
+    },
+    "Zmp6ZiXajhuDCNid": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giants/Mountain/Mountain*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giants/Mountain/Mountain (1).webp"
+    },
+    "uMfEGqHhJThvsHse": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giants/Mountain/Mountain*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giants/Mountain/Mountain (1).webp"
+    },
+    "iGQ8EvddKvXbdf8G": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giants/Mountain/Mountain*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giants/Mountain/Mountain (1).webp"
+    },
+    "R9IiATFLsY6Bk53Q": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giants/Mountain/Mountain*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giants/Mountain/Mountain (1).webp"
+    },
+    "4d9L11A9wNhq8KlY": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giants/Mountain/Mountain*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giants/Mountain/Mountain (1).webp"
+    },
+    "1LncdXTLPhgUi274": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giants/Mountain/Mountain*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giants/Mountain/Mountain (1).webp"
+    },
+    "Fwt6fqhFpjxyWR6Y": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giants/Mountain/Mountain*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giants/Mountain/Mountain (1).webp"
+    },
+    "e2CbDaC2O6qnl8QY": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giants/Mountain/Mountain*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giants/Mountain/Mountain (1).webp"
+    },
+    "Gs3m3KdmC0kWhJIq": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giants/Sea/Sea*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giants/Sea/Sea (1).webp"
+    },
+    "d2Z5QA4lJagtoQwk": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giants/Sea/Sea*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giants/Sea/Sea (1).webp"
+    },
+    "oqLgt22DhKUDNhrA": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giants/Sea/Sea*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giants/Sea/Sea (1).webp"
+    },
+    "nPIDNSMLT4wM48Jm": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giants/Sea/Sea*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giants/Sea/Sea (1).webp"
+    },
+    "hx4nzIbqNkp25LLE": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giants/Sea/Sea*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giants/Sea/Sea (1).webp"
+    },
+    "LYIhH4upOrmyroPx": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giants/Sea/Sea*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giants/Sea/Sea (1).webp"
+    },
+    "I9a0vnxoYjIPwaTl": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giants/Sea/Sea*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giants/Sea/Sea (1).webp"
+    },
+    "GunD699F75jG9UMN": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giants/Stone/Stone*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giants/Stone/Stone (1).webp"
+    },
+    "jljpFsfcO8RXAQwk": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giants/Storm/Storm*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giants/Storm/Storm (1).webp"
+    },
+    "zqzL03sIeoV2wZGk": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Slug/Giant Slug*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Slug/Giant Slug (1).webp"
+    },
+    "d2VmWFjj9kw3F2Ww": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Slug/Giant Slug*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Slug/Giant Slug (1).webp"
+    },
+    "xgOqASvFIcZaQEOq": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Slug/Giant Slug*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Slug/Giant Slug (1).webp"
+    },
+    "hGI9fn5H6gy7QAbb": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Slug/Giant Slug*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Slug/Giant Slug (1).webp"
+    },
+    "tEpfZP3W0IedmdQt": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Slug/Giant Slug*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Slug/Giant Slug (1).webp"
+    },
+    "AVVGq5f9seul3XrT": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Slug/Giant Slug*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Slug/Giant Slug (1).webp"
+    },
+    "Y6LM2Lr9l1GfTNrN": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Slug/Giant Slug*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Slug/Giant Slug (1).webp"
+    },
+    "oHkSx8ROP9vHPDcn": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Slug/Giant Slug*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Slug/Giant Slug (1).webp"
+    },
+    "FkOX24tbUa8REUhc": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Slug/Giant Slug*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Slug/Giant Slug (1).webp"
+    },
+    "fCTGDPNpzYskLcRT": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Slug/Giant Slug*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Slug/Giant Slug (1).webp"
+    },
+    "IgZtRt0Gvyhj3eZT": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Slug/Giant Slug*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Slug/Giant Slug (1).webp"
+    },
+    "5PjeHRoBJvsBUWpC": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Slug/Giant Slug*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Slug/Giant Slug (1).webp"
+    },
+    "9IadvMuWY4f9di9h": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Snail/Giant Snail*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Snail/Giant Snail (1).webp"
+    },
+    "1WBnRZ5mhqbh9ES8": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Snail/Giant Snail*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Snail/Giant Snail (1).webp"
+    },
+    "4NjFzao36tZJPdoC": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Snail/Giant Snail*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Snail/Giant Snail (1).webp"
+    },
+    "Mgx4Si9L1tnGwJ1z": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Snail/Giant Snail*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Snail/Giant Snail (1).webp"
+    },
+    "GPCz6X3mZ5B91sNb": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Snail/Giant Snail*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Snail/Giant Snail (1).webp"
+    },
+    "q6lJ1GV0Kn4mEvmw": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Snail/Giant Snail*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Snail/Giant Snail (1).webp"
+    },
+    "PoUEiruBlGgIymE4": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Snail/Giant Snail*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Snail/Giant Snail (1).webp"
+    },
+    "mWkhzQmdrcau9rYU": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Snail/Giant Snail*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Snail/Giant Snail (1).webp"
+    },
+    "CPCcMZyVlq4IjA7Z": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Snail/Giant Snail*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Snail/Giant Snail (1).webp"
+    },
+    "BkVpRT97og6rlJ1a": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Snail/Giant Snail*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Snail/Giant Snail (1).webp"
+    },
+    "lhOa8QFXd1Or7kLd": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Snail/Giant Snail*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Snail/Giant Snail (1).webp"
+    },
+    "HOZGZRzeF4JWzU09": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Snail/Giant Snail*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Snail/Giant Snail (1).webp"
+    },
+    "HqFmSqcFv1R5WXY2": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Gnoll/Gnoll*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Gnoll/GnollBow (1).webp"
+    },
+    "XBfBHqaqKPwFuREx": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Gnoll Pack Lord/GnollPackLord*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Gnoll Pack Lord/GnollPackLord (1).webp"
+    },
+    "8qrZ6BR4mnos5TNV": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Deep Gnome/DeepGnome*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Deep Gnome/DeepGnomeFemale (1).webp"
+    },
+    "6GjqbxA4jbF43hks": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Deep Gnome/DeepGnome*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Deep Gnome/DeepGnomeFemale (1).webp"
+    },
+    "n1P5QlOhEaopZPeT": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Deep Gnome/DeepGnome*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Deep Gnome/DeepGnomeFemale (1).webp"
+    },
+    "kq2aAg6OCWbOLOxR": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Goblin/GoblinForestMale*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Goblin/GoblinForestMaleGraygreenMelee (1).webp"
+    },
+    "coiQoVTorTUlhIZ9": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Goblin/GoblinForestMale*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Goblin/GoblinForestMaleGraygreenMelee (1).webp"
+    },
+    "QUbVvCqqbw8KHDK7": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Goblin/GoblinForestMale*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Goblin/GoblinForestMaleGraygreenMelee (1).webp"
+    },
+    "QXoYh4B1migXhxSV": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Goblin Boss/GoblinBossMaleGr*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Goblin Boss/GoblinBossMaleGraygreenForest (1).webp"
+    },
+    "Le8IHrEGRqJgeuRN": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lion/Lion*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lion/LionFemale (1).webp"
+    },
+    "z9lWmYsh6S1HhL35": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Skeleton/Skeleton*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Skeleton/SkeletonBow (1).webp"
+    },
+    "2YJeOzknpdtZPzKH": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Animated Armor/AnimatedArmor*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Animated Armor/AnimatedArmor (1).webp"
+    },
+    "iLAQRsgcnhEqdgKb": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Mud Mephit/MudMephit*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Mud Mephit/MudMephit (1).webp"
+    },
+    "pwi46uMm658hZ9SQ": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Stone Golem/StoneGolem*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Stone Golem/StoneGolem (1).webp"
+    },
+    "DrucniROFX8WUrgi": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Scarecrow/Scarecrow*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Scarecrow/Scarecrow (1).webp"
+    },
+    "pxbk2OFLmZl2wASE": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Gorgon/Gorgon*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Gorgon/Gorgon (1).webp"
+    },
+    "fJfDm9Y5LUKURGXM": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Gorgon/Gorgon*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Gorgon/Gorgon (1).webp"
+    },
+    "dK13I1lIm1BelYuM": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Vine Blight/VineBlight*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Vine Blight/VineBlight (1).webp"
+    },
+    "MCtu9vXbaNhy24hH": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Gray Ooze/GrayOoze*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Gray Ooze/GrayOozeDissolving (1).webp"
+    },
+    "56ljouoCm7aDOC3Q": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Green Slime/GreenSlime*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Green Slime/GreenSlime (1).webp"
+    },
+    "2bTYQpXFLj9ZnNL3": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Gremlin/Gremlin*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Gremlin/Gremlin (1).webp"
+    },
+    "hC38RIHvV8FHOaRR": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Griffon/Griffon*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Griffon/Griffon (1).webp"
+    },
+    "HTkGuHEdoR8aIa0O": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Owl/GiantOwl*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Owl/GiantOwlArctic (1).webp"
+    },
+    "tFTFqd5ZYPm5a9qF": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Owl/GiantOwl*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Owl/GiantOwlArctic (1).webp"
+    },
+    "O5BYDbS5Iyouc7B1": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Owl/GiantOwl*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Owl/GiantOwlArctic (1).webp"
+    },
+    "1VfT594HFnAyaDoM": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Owl/GiantOwl*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Owl/GiantOwlArctic (1).webp"
+    },
+    "2Rk0VvNg8cezaFkC": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Owl/GiantOwl*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Owl/GiantOwlArctic (1).webp"
+    },
+    "3BeaacrVAxu8DdbF": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Owl/GiantOwl*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Owl/GiantOwlArctic (1).webp"
+    },
+    "MZqCnZJvNMvWYn37": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Owl/GiantOwl*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Owl/GiantOwlArctic (1).webp"
+    },
+    "lx1dMEzJEfMsbSTf": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Owl/GiantOwl*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Owl/GiantOwlArctic (1).webp"
+    },
+    "wbDEAjTTLJ8tVMWK": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Owl/GiantOwl*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Owl/GiantOwlArctic (1).webp"
+    },
+    "MtM1b6SMpbWxCUcS": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Owl/GiantOwl*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Owl/GiantOwlArctic (1).webp"
+    },
+    "hjUZIP2xIg9VPpLK": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Owl/GiantOwl*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Owl/GiantOwlArctic (1).webp"
+    },
+    "AU1legywWpS4hNH3": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Owl/GiantOwl*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Owl/GiantOwlArctic (1).webp"
+    },
+    "j6LmXVHWzggETvwV": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hags/Black/Black*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hags/Black/Black (1).webp"
+    },
+    "IdppdYGFmrS7Bloe": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hags/Black/Black*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hags/Black/Black (1).webp"
+    },
+    "9pd1qFiZ6LknJBkc": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hags/Black/Black*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hags/Black/Black (1).webp"
+    },
+    "WmFhNDp9K8E4rXiV": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hags/Black/Black*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hags/Black/Black (1).webp"
+    },
+    "1JDAozE5OkXmUfxn": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hags/Black/Black*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hags/Black/Black (1).webp"
+    },
+    "q4BCYAYnHRJ1Xg2C": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hags/Black/Black*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hags/Black/Black (1).webp"
+    },
+    "M5xv0jThcMy5d0sI": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hags/Black/Black*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hags/Black/Black (1).webp"
+    },
+    "SfJvm2syAP8cA5z8": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hags/Black/Black*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hags/Black/Black (1).webp"
+    },
+    "lldbG4rM9NCmn5eZ": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hags/Black/Black*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hags/Black/Black (1).webp"
+    },
+    "6bOwizecOXLSsOL8": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hags/Black/Black*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hags/Black/Black (1).webp"
+    },
+    "pvoLmrvjptuEBiua": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Sea Hag/SeaHag*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Sea Hag/SeaHag (1).webp"
+    },
+    "6qDMmsUkBSuvuLh7": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Halfling/Halfling*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Halfling/Halfling (1).webp"
+    },
+    "HAixVC58xx8ZcMMO": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Halfling/Halfling*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Halfling/Halfling (1).webp"
+    },
+    "d4XNKn2BtRF9i2b4": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Harpy/Harpy*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Harpy/Harpy (1).webp"
+    },
+    "HOnNY1iJprPy177I": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Banshee/Banshee*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Banshee/BansheeCoast (1).webp"
+    },
+    "uVU3mGEPCEZRBeUS": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Ghost/Ghost*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Ghost/GhostFemale (1).webp"
+    },
+    "zHZkAdD0cco2SS7H": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Ghost/Ghost*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Ghost/GhostFemale (1).webp"
+    },
+    "T3c8khRiyINi0dgo": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Ghost/Ghost*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Ghost/GhostFemale (1).webp"
+    },
+    "t98lsSC3RVBIc3ZP": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Poltergeist/Poltergeist*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Poltergeist/Poltergeist (1).webp"
+    },
+    "JSWFNZ3ebpmJBOWE": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Headsman/Headsman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Headsman/Headsman (1).webp"
+    },
+    "DeyQFtLAD2uk6XpT": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Headsman/Headsman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Headsman/Headsman (1).webp"
+    },
+    "RSLOV5nLIPmdQEZg": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Headsman/Headsman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Headsman/Headsman (1).webp"
+    },
+    "LuROqlGzGWNE4IOw": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Headsman/Headsman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Headsman/Headsman (1).webp"
+    },
+    "4ckGxakkP035zeV3": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Headsman/Headsman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Headsman/Headsman (1).webp"
+    },
+    "vOIGThjt3svPAF6A": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Headsman/Headsman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Headsman/Headsman (1).webp"
+    },
+    "KMGCpbxErxooeqqR": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Headsman/Headsman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Headsman/Headsman (1).webp"
+    },
+    "feLEy9mOVPJU2dqe": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Headsman/Headsman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Headsman/Headsman (1).webp"
+    },
+    "BuTa9Lzs0aAC8hfW": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Headsman/Headsman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Headsman/Headsman (1).webp"
+    },
+    "jdmoD0SPvwRTI9Po": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Headsman/Headsman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Headsman/Headsman (1).webp"
+    },
+    "5XD6BADsnkbzqW0a": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Headsman/Headsman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Headsman/Headsman (1).webp"
+    },
+    "rwfovkksDPkjntPg": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Headsman/Headsman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Headsman/Headsman (1).webp"
+    },
+    "hZzo92kDVWavY18c": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Helion/Helion*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Helion/Helion (1).webp"
+    },
+    "YCoWWeAatCHKhl4P": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hellhound/Hellhound*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hellhound/Hellhound (1).webp"
+    },
+    "5EhGVUsv5DY7eFoQ": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hellhound/Hellhound*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hellhound/Hellhound (1).webp"
+    },
+    "EkDcdkTNHfnjIRCd": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hellhound/Hellhound*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hellhound/Hellhound (1).webp"
+    },
+    "UPa99Qgd2YsOpb6u": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hellhound/Hellhound*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hellhound/Hellhound (1).webp"
+    },
+    "RjNBAMnfsEkCycNc": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hellhound/Hellhound*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hellhound/Hellhound (1).webp"
+    },
+    "ehLtExOqw3AZUMGm": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hippogriff/Hippogriff*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hippogriff/HippogriffArmored (1).webp"
+    },
+    "cqA8bRxYul1fKqrx": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hobgoblin/Hobgoblin*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hobgoblin/HobgoblinArmycampMelee (1).webp"
+    },
+    "EMgHTzvjVhVgleVc": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hobgoblin Captain/HobgoblinCaptain*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hobgoblin Captain/HobgoblinCaptainArmy (1).webp"
+    },
+    "pqMSUZDTxBkzJRXt": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hobgoblin/Hobgoblin*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hobgoblin/HobgoblinArmycampMelee (1).webp"
+    },
+    "l0JWRUFctI8TYJbM": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Swarm of Insects/SwarmOfInsects*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Swarm of Insects/SwarmOfInsects (1).webp"
+    },
+    "EsOysQjrxZd7DSfM": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Swarm of Insects/SwarmOfInsects*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Swarm of Insects/SwarmOfInsects (1).webp"
+    },
+    "SrEp7qwyoSd5upmI": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Swarm of Insects/SwarmOfInsects*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Swarm of Insects/SwarmOfInsects (1).webp"
+    },
+    "i6cptjO4zECXRZkG": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Swarm of Insects/SwarmOfInsects*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Swarm of Insects/SwarmOfInsects (1).webp"
+    },
+    "SdkWPwwzhCLrZrL8": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Swarm of Insects/SwarmOfInsects*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Swarm of Insects/SwarmOfInsects (1).webp"
+    },
+    "98EhNlNizCi4QlX0": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Swarm of Insects/SwarmOfInsects*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Swarm of Insects/SwarmOfInsects (1).webp"
+    },
+    "zCQAmOhyYj1RLX2R": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Swarm of Insects/SwarmOfInsects*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Swarm of Insects/SwarmOfInsects (1).webp"
+    },
+    "b2v2pw0KSCSDbKY6": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Swarm of Insects/SwarmOfInsects*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Swarm of Insects/SwarmOfInsects (1).webp"
+    },
+    "fc3OOJdQrP3lojfv": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Bandit/BanditHuman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Bandit/BanditHumanArcticFemaleMelee (1).webp"
+    },
+    "RCPlgt1j0WEJmVMO": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Bandit/BanditHuman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Bandit/BanditHumanArcticFemaleMelee (1).webp"
+    },
+    "iraH01OroqdGro5l": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Bandit/BanditHuman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Bandit/BanditHumanArcticFemaleMelee (1).webp"
+    },
+    "rcNI8ENf9jLEaPRa": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Berserker/BerserkerHuman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Berserker/BerserkerHumanFemale (1).webp"
+    },
+    "tRFwfLgZS4oCLlNn": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Bandit/BanditHuman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Bandit/BanditHumanArcticFemaleMelee (1).webp"
+    },
+    "lkOr6L85z5Ik0O9d": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Humans/Buccaneer/Buccaneer*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Humans/Buccaneer/Buccaneer (1).webp"
+    },
+    "pmLjm0Ds2DrDFDaz": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Humans/Dervish/Dervish*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Humans/Dervish/Dervish (1).webp"
+    },
+    "1FxBKWAfojOQ0qBn": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Noble/NobleHuman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Noble/NobleHumanFemale (1).webp"
+    },
+    "jYSPJwYKvsbkNi4m": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Tribal Warrior/TribalWarriorHuman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Tribal Warrior/TribalWarriorHumanFemaleForest (1).webp"
+    },
+    "dqSsB1Lx4jHCLBIO": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Humans/Buccaneer/Buccaneer*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Humans/Buccaneer/Buccaneer (1).webp"
+    },
+    "Yw2aMmoGR4QRp33g": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Commoner/CommonerHuman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Commoner/CommonerHumanArcticFemale (1).webp"
+    },
+    "kDl71qaMaLB7XFhb": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Humans/Normal/Normal*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Humans/Normal/Normal (1).webp"
+    },
+    "5YA0ss39Kg7CME8M": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hydra/Hydra*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hydra/Hydra (1).webp"
+    },
+    "DhFUzQrBEGkDY6yC": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hydra/Hydra*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hydra/Hydra (1).webp"
+    },
+    "KLH7YQBUsLIq11Aq": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hydra/Hydra*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hydra/Hydra (1).webp"
+    },
+    "uwscaGss3xIyLTUq": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hydra/Hydra*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hydra/Hydra (1).webp"
+    },
+    "AVVx6uCSpyIcAclH": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hydra/Hydra*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hydra/Hydra (1).webp"
+    },
+    "Z24w8lQbhaEGKTu7": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hydra/Hydra*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hydra/Hydra (1).webp"
+    },
+    "E8HE1W8m8rg5kjwl": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hydra/Hydra*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hydra/Hydra (1).webp"
+    },
+    "FhsSTT6nAoP3pTXT": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hydra/Hydra*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hydra/Hydra (1).webp"
+    },
+    "ZqoZXBukthRJC1Dd": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hydra/Hydra*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hydra/Hydra (1).webp"
+    },
+    "RPPdGzkbwCIYvf2X": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hydra/Hydra*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hydra/Hydra (1).webp"
+    },
+    "CIhVHR0TxJyo6v8n": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hydra/Hydra*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hydra/Hydra (1).webp"
+    },
+    "mJMK2svX7xbYomjT": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hydra/Hydra*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hydra/Hydra (1).webp"
+    },
+    "JdKk4HZVUhXkrKPz": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hydra/Hydra*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hydra/Hydra (1).webp"
+    },
+    "Ym7zlvIyprCNPTa4": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hydra/Hydra*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hydra/Hydra (1).webp"
+    },
+    "n38wgSBUceafJ6a6": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hydra/Hydra*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hydra/Hydra (1).webp"
+    },
+    "K9pIfKYqFGY0MsXA": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hydra/Hydra*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hydra/Hydra (1).webp"
+    },
+    "XSk7palknSt0AJF5": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hydra/Hydra*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hydra/Hydra (1).webp"
+    },
+    "bAgZcatpzVgMOimm": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hydra/Hydra*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hydra/Hydra (1).webp"
+    },
+    "2VNfb1VkjOun8xHv": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hydra/Hydra*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hydra/Hydra (1).webp"
+    },
+    "CBGtGNhW9lzrK6Fx": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Crab/GiantCrab*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Crab/GiantCrab (1).webp"
+    },
+    "46QLGSlGDLxcIg4D": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Swarm of Insects/SwarmOfInsects*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Swarm of Insects/SwarmOfInsects (1).webp"
+    },
+    "Umq3U1ICORIFSwfP": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Swarm of Insects/SwarmOfInsects*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Swarm of Insects/SwarmOfInsects (1).webp"
+    },
+    "riVXLsP8TWWXRRIA": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Swarm of Insects/SwarmOfInsects*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Swarm of Insects/SwarmOfInsects (1).webp"
+    },
+    "HJ6UrCjtPOJeqaTN": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Invisible Stalker/InvisibleStalker*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Invisible Stalker/InvisibleStalker (1).webp"
+    },
+    "ksBFKbkxoksOtZ5E": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Kobold/Kobold*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Kobold/KoboldArctic (1).webp"
+    },
+    "LrFyA3hSCWV8vBQr": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Kobold/Kobold*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Kobold/KoboldArctic (1).webp"
+    },
+    "ZL3EScZF34Mluma5": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Kobold/Kobold*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Kobold/KoboldArctic (1).webp"
+    },
+    "zUrq2sYPpyIWRLHQ": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Kryst/Kryst*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Kryst/Kryst (1).webp"
+    },
+    "ijlnRpZ8vi3C5hNm": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Magma Mephit/MagmaMephit*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Magma Mephit/MagmaMephit (1).webp"
+    },
+    "GgTjHx9hRlrtiCFy": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Leech, Giant/Leech, Giant*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Leech, Giant/Leech, Giant (1).webp"
+    },
+    "z3i3b4h8PGmJAaxJ": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "ksl26vU8MxdukAAc": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "mATn2WkD17LGV7NS": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "4A1oRjGhLaNFK3Z4": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "7ikBUYJKGiD68g04": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "b2gQd62QPrW5wsLc": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "VbXHYWOG3qcOJt03": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "zHeM89ZdM9LTPWAz": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "ITLXlrFKgNFsTG3R": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "p3HohYyc5fGAyp4n": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "ifMDqR0dvWfL1co7": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "orTivStxQqKwVSoC": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "TVujRGVj5Gf6E5db": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "YRPoNOwOZkAxaOLy": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "kzwarUl72wZdxMac": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "34IWhiHrAdsRCzBY": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "riC4HwvB3CNEUMp1": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "fZWceTnPxNlIx0Cs": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "YxU8OxNpQ8w4Acbk": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "2utkjh0YNYX5JR02": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "RlOSa1iDeBHVZCg3": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "2QH0fdCXXlFAgy16": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "gMVSMRny2HCdsvg3": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "pZNDc29Ytq794V6u": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "uJ3tQNWByb5OREpp": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "zBIohZZEP11IFQna": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "GCVeG8fxZwX1Gzw4": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "37AmrQ33U3w2ieRw": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "6mJLqJYHCUazR6Lo": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "fk4lg17jeiScBDjB": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "608xE8RzCy0HinE3": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "OhvtxhU0DxXZbRGi": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lich/Lich*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lich/Lich (1).webp"
+    },
+    "BdUPcdGAJLxUvwgO": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Lizard/GiantLizard*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Lizard/GiantLizardSwamp (1).webp"
+    },
+    "p2HAYW2LlRYOPOiv": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Lizard/GiantLizard*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Lizard/GiantLizardSwamp (1).webp"
+    },
+    "hCpC0eX5RHU1z6cG": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Lizard/GiantLizard*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Lizard/GiantLizardSwamp (1).webp"
+    },
+    "RjJiJmaFm2Y81NT5": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Lizard/GiantLizard*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Lizard/GiantLizardSwamp (1).webp"
+    },
+    "6rv1LKd6FIieRApr": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lizardfolk/Lizardfolk*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lizardfolk/Lizardfolk (1).webp"
+    },
+    "FjP8pYyNbpgqHwq8": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Wasp/GiantWasp*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Wasp/GiantWaspBeehive (1).webp"
+    },
+    "b1qtWSbA3Etjwkr0": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lupin/Lupin*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lupin/Lupin (1).webp"
+    },
+    "VJlWY3tKSm9JM7jS": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lycanthropes/Devil Swine/Devil Swine*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lycanthropes/Devil Swine/Devil Swine (1).webp"
+    },
+    "5cV8HJzPnKBnQmaC": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lycanthropes/Werebat/Werebat*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lycanthropes/Werebat/Werebat (1).webp"
+    },
+    "6hjGF6YQqdBvvMS7": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lycanthropes/Werebear/Werebear*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lycanthropes/Werebear/Werebear (1).webp"
+    },
+    "3CvtVynSBywJGlxi": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lycanthropes/Wereboar/Wereboar*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lycanthropes/Wereboar/Wereboar (1).webp"
+    },
+    "WJytkof5lsHZMTZA": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lycanthropes/Werefox/Werefox*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lycanthropes/Werefox/Werefox (1).webp"
+    },
+    "9YkdFwvOyR1jMv0d": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lycanthropes/Wererat/Wererat*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lycanthropes/Wererat/Wererat (1).webp"
+    },
+    "LkDpOkQ2GggWq9AY": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lycanthropes/Wereseal/Wereseal*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lycanthropes/Wereseal/Wereseal (1).webp"
+    },
+    "bpFa4h1CwJSrcxMq": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lycanthropes/Wereshark/Wereshark*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lycanthropes/Wereshark/Wereshark (1).webp"
+    },
+    "VdCp0J7KP6O47sh0": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lycanthropes/Weretiger/Weretiger*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lycanthropes/Weretiger/WeretigerDesert (1).webp"
+    },
+    "tMx78dywgwuL5NJW": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lycanthropes/Werewolf/Werewolf*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lycanthropes/Werewolf/Werewolf (1).webp"
+    },
+    "SILtVA3n2wCVO1Wj": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Lycanthropes/Werewolf/Werewolf*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Lycanthropes/Werewolf/Werewolf (1).webp"
+    },
+    "KQaOYc4nrf8W0VtE": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Magen/Caldron/Caldron*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Magen/Caldron/Caldron (1).webp"
+    },
+    "1yYn5PRbyW9Dcmc4": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Magen/Demos/Demos*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Magen/Demos/Demos (1).webp"
+    },
+    "D1NrchtQA2quPlvy": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Magen/Galvan/Galvan*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Magen/Galvan/Galvan (1).webp"
+    },
+    "stgDGNUMQMHj9u6C": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Magen/Hypnos/Hypnos*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Magen/Hypnos/Hypnos (1).webp"
+    },
+    "hKbXw53EUrd6w4CH": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Malfera/Malfera*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Malfera/Malfera (1).webp"
+    },
+    "vOcSXJoGVuWdkz6u": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Manscorpion/Manscorpion*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Manscorpion/Manscorpion (1).webp"
+    },
+    "PFEP0r6M0XA2Dorp": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Manscorpion/Manscorpion*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Manscorpion/Manscorpion (1).webp"
+    },
+    "5ABLmtaQgdPo2yk0": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Manscorpion/Manscorpion*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Manscorpion/Manscorpion (1).webp"
+    },
+    "jDaoh5Vd5F7l0phv": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Manscorpion/Manscorpion*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Manscorpion/Manscorpion (1).webp"
+    },
+    "MHa1jXfUTiZXhsVB": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Manscorpion/Manscorpion*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Manscorpion/Manscorpion (1).webp"
+    },
+    "3oAcuc7pI7Dq0Hvi": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Manscorpion/Manscorpion*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Manscorpion/Manscorpion (1).webp"
+    },
+    "1WsLyWCHxwfsQXl3": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Manscorpion/Manscorpion*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Manscorpion/Manscorpion (1).webp"
+    },
+    "1KSNJHMeKLmRKmsF": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Manta Ray/MantaRay*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Manta Ray/MantaRay (1).webp"
+    },
+    "k0jeAZK5q8mYFZO4": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Manta Ray/MantaRay*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Manta Ray/MantaRay (1).webp"
+    },
+    "ChXygNMqR7jeDNk7": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Manticore/Manticore*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Manticore/Manticore (1).webp"
+    },
+    "VdNvGmW4nfZa8u8P": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Medusa/Medusa*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Medusa/MedusaFemale (1).webp"
+    },
+    "CbLFxjJOLryKlL0R": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Medusa/Medusa*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Medusa/MedusaFemale (1).webp"
+    },
+    "dy1bqpP9m0iY68Xk": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Mek/Mek*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Mek/Mek (1).webp"
+    },
+    "Y2fjE7CwsyqHKKbc": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Mek/Mek*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Mek/Mek (1).webp"
+    },
+    "b1pVfhwgmjC69Ato": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Mek/Mek*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Mek/Mek (1).webp"
+    },
+    "kqcg6PuOaVYcNZgp": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Mek/Mek*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Mek/Mek (1).webp"
+    },
+    "fRAfrcYoSksR3fVy": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Mek/Mek*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Mek/Mek (1).webp"
+    },
+    "kT99meDggGZqw8Fe": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Mek/Mek*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Mek/Mek (1).webp"
+    },
+    "Cq05Ro7dnW8DRN23": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Merfolk/Merfolk*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Merfolk/MerfolkFemale (1).webp"
+    },
+    "eTBYUTMe8lWhkxfO": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Merfolk/Merfolk*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Merfolk/MerfolkFemale (1).webp"
+    },
+    "9geMmbr5zEyQn0NC": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Merfolk/Merfolk*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Merfolk/MerfolkFemale (1).webp"
+    },
+    "m56dpFMj1EAAh5WY": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Metamorph/Metamorph*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Metamorph/Metamorph (1).webp"
+    },
+    "cjMUSor7lefQLGMj": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Metamorph/Metamorph*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Metamorph/Metamorph (1).webp"
+    },
+    "Zsz1W8iaFkygssMk": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Minotaur/Minotaur*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Minotaur/MinotaurFemale (1).webp"
+    },
+    "xM7S8gONcHtrN7SM": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Camel/Camel*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Camel/CamelTamed (1).webp"
+    },
+    "RjQyqdheiXyejdwJ": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Draft Horse/DraftHorse*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Draft Horse/DraftHorseSummer (1).webp"
+    },
+    "hQDO0pDaKZ0ofP62": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Riding Horse/RidingHorse*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Riding Horse/RidingHorse (1).webp"
+    },
+    "FqG0R2jI1idSQnB5": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Mule/Mule*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Mule/Mule (1).webp"
+    },
+    "eYuQLjP78z7C0xJ2": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Pony/Pony*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Pony/Pony (1).webp"
+    },
+    "we9qqWbG0h3fXmYX": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Warhorse/Warhorse*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Warhorse/Warhorse (1).webp"
+    },
+    "8Rj9AY945sTIEEK8": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Mujina/Mujina*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Mujina/Mujina (1).webp"
+    },
+    "nBLaG6JjFPvk8RWt": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Mummy/Mummy*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Mummy/Mummy (1).webp"
+    },
+    "2eHNxX4vGFbjboaz": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Neanderthal/Neanderthal*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Neanderthal/Neanderthal (1).webp"
+    },
+    "we26j5H2VH0BdIXi": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Neanderthal/Neanderthal*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Neanderthal/Neanderthal (1).webp"
+    },
+    "DwmBZg0ChBtJ1DiT": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Nekrozon/Nekrozon*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Nekrozon/Nekrozon (1).webp"
+    },
+    "YKNCrnmKSW5vPUiC": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Purple Worm/PurpleWorm*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Purple Worm/PurpleWorm (1).webp"
+    },
+    "rtsX344cV9FjmYVo": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Purple Worm/PurpleWorm*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Purple Worm/PurpleWorm (1).webp"
+    },
+    "dZhXSXYS2mzWD3SX": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Purple Worm/PurpleWorm*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Purple Worm/PurpleWorm (1).webp"
+    },
+    "LEpgO3vWBdFmMeRn": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Purple Worm/PurpleWorm*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Purple Worm/PurpleWorm (1).webp"
+    },
+    "YpZyK2yMryiOsgqj": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Purple Worm/PurpleWorm*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Purple Worm/PurpleWorm (1).webp"
+    },
+    "VLllqxydiis0lI03": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Purple Worm/PurpleWorm*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Purple Worm/PurpleWorm (1).webp"
+    },
+    "eNlQkNTiZK6bN9Qj": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Shadow/Shadow*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Shadow/Shadow (1).webp"
+    },
+    "9EtaIxdjNrXaUnZl": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Shadow/Shadow*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Shadow/Shadow (1).webp"
+    },
+    "GjZgRNSOKIeQ3lKA": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Shadow/Shadow*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Shadow/Shadow (1).webp"
+    },
+    "rucmyhDi0SWdM4l5": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Shadow/Shadow*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Shadow/Shadow (1).webp"
+    },
+    "Ts8xcdmHHkdA3spW": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Shadow/Shadow*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Shadow/Shadow (1).webp"
+    },
+    "05bBlAyUEaYfxZQ8": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Shadow/Shadow*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Shadow/Shadow (1).webp"
+    },
+    "jYiUffIy66Mb2YX8": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Shadow/Shadow*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Shadow/Shadow (1).webp"
+    },
+    "gxcOurj3WNVxZogn": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Shadow/Shadow*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Shadow/Shadow (1).webp"
+    },
+    "tT5PkWsUWaEMalaq": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Shadow/Shadow*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Shadow/Shadow (1).webp"
+    },
+    "jhAiX0UYsfqZD9Tc": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Shadow/Shadow*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Shadow/Shadow (1).webp"
+    },
+    "zlL7KhuxMsd4xeqc": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Sprite/Sprite*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Sprite/SpriteBowFemale (1).webp"
+    },
+    "D94FI1tdDlTj19ue": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Nuckalavee/Nuckalavee*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Nuckalavee/Nuckalavee (1).webp"
+    },
+    "Q8aL94FCQODJRQ9B": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Ochre Jelly/OchreJelly*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Ochre Jelly/OchreJelly (1).webp"
+    },
+    "R811fYr1SDwwKNGd": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Ogre/Ogre*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Ogre/Ogre (1).webp"
+    },
+    "JNrudHb64zpfOJA5": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Orc War Chief/OrcWarchief*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Orc War Chief/OrcWarchief (1).webp"
+    },
+    "ksBY6HIuAo5RhU3E": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Orc/Orc*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Orc/OrcArcticAxe (1).webp"
+    },
+    "x8wcYxKMfc0JxmnU": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Orc/Orc*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Orc/OrcArcticAxe (1).webp"
+    },
+    "1uySBcvKAk9H3QnM": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Owlbear/Owlbear*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Owlbear/Owlbear (1).webp"
+    },
+    "l4JcE9LQPmYQl3tW": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Pegasus/Pegasus*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Pegasus/PegasusForest (1).webp"
+    },
+    "vEoO8HXL23Q653eN": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Ghost/Ghost*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Ghost/GhostFemale (1).webp"
+    },
+    "UBmTQ7d7bpdUj7j4": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Shadow/Shadow*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Shadow/Shadow (1).webp"
+    },
+    "2ObdyqvDteQGsm5l": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Specter/SpecterHuman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Specter/SpecterHumanFemale (1).webp"
+    },
+    "xEDkmcUl2qFocEAw": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Phoenix/Phoenix*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Phoenix/Phoenix (1).webp"
+    },
+    "QuqmVlk1H00zINn1": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Phoenix/Phoenix*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Phoenix/Phoenix (1).webp"
+    },
+    "iyFIu2ealciOWv8b": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Pixie/Pixie*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Pixie/PixieFemale (1).webp"
+    },
+    "L3ZhzYahkX0Z6OTI": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Plasm/Plasm*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Plasm/Plasm (1).webp"
+    },
+    "8WTKbklRYhmcmJVq": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Plasm/Plasm*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Plasm/Plasm (1).webp"
+    },
+    "ZIDlZCyqnIU4woLo": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Purple Worm/PurpleWorm*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Purple Worm/PurpleWorm (1).webp"
+    },
+    "4x7yrjA0lbctlBc7": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Rakasta/Rakasta*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Rakasta/Rakasta (1).webp"
+    },
+    "GHYGJYLKElPllGO9": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Rat/Rat*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Rat/RatSwamp (1).webp"
+    },
+    "kBPV3IhfaM1Zh8m4": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Rat/Rat*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Rat/RatSwamp (1).webp"
+    },
+    "MRYlnRSvm0fk4ml3": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Revenant/RevenantH*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Revenant/RevenantHalfingMale (2).webp"
+    },
+    "1HFdNum5FcVKAtXp": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Spider/GiantSpider*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Spider/GiantSpider (1).webp"
+    },
+    "6BNXNVaeWSfP1h1P": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Wasp/GiantWasp*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Wasp/GiantWaspBeehive (1).webp"
+    },
+    "nS6ydAzvkJ25n6SP": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Eagle/GiantEagle*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Eagle/GiantEagle (1).webp"
+    },
+    "0D0KdaurlhperBus": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Eagle/GiantEagle*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Eagle/GiantEagle (1).webp"
+    },
+    "1bXlFR0ultbdD3t7": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Eagle/GiantEagle*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Eagle/GiantEagle (1).webp"
+    },
+    "FoegzkcfGSiKi9by": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Rust Monster/RustMonster*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Rust Monster/RustMonster (1).webp"
+    },
+    "DQ4X4w5ArRsS9Pc1": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Salamander/Salamander*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Salamander/Salamander (1).webp"
+    },
+    "ZkTee9uM37Cov1wW": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Ice Mephit/IceMephit*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Ice Mephit/IceMephit (1).webp"
+    },
+    "R4936pFbhRwLs4Zs": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Yeti/Yeti*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Yeti/Yeti (1).webp"
+    },
+    "ADrQi5xk73eXMTXz": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Scorpion/Scorpion*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Scorpion/Scorpion (1).webp"
+    },
+    "vrLI7AenWNUxigst": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Shadow/Shadow*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Shadow/Shadow (1).webp"
+    },
+    "QP2jTj0DuuZfQRt2": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hunter Shark/HunterShark*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hunter Shark/HunterShark (1).webp"
+    },
+    "UNuq2tFN4aWhWf5A": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Shark/GiantShark*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Shark/GiantShark (1).webp"
+    },
+    "liQI7wsZUDtPxe6S": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Hunter Shark/HunterShark*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Hunter Shark/HunterShark (1).webp"
+    },
+    "gh2b66IEVv7vOAWN": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Rat/GiantRat*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Rat/GiantRatForest (1).webp"
+    },
+    "tmNJdVGt2tQk6B4R": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Shrieker/Shrieker*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Shrieker/Shrieker (1).webp"
+    },
+    "FZMd1uzbkuPkrIER": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Skeleton/Skeleton*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Skeleton/SkeletonBow (1).webp"
+    },
+    "FIFnFyLFQBJpo4Q0": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Poisonous Snake/GiantPoisonousSnake*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Poisonous Snake/GiantPoisonousSnakeDesert (1).webp"
+    },
+    "vq9IpKuw5iId4FYe": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Poisonous Snake/GiantPoisonousSnake*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Poisonous Snake/GiantPoisonousSnakeDesert (1).webp"
+    },
+    "3aTlHWeNiA4JEzhP": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Poisonous Snake/PoisonousSnake*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Poisonous Snake/PoisonousSnakeDesert (1).webp"
+    },
+    "1oio96mRSj8Owe2H": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Constrictor Snake/ConstrictorSnake*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Constrictor Snake/ConstrictorSnakeDesert (1).webp"
+    },
+    "EsBz6dP3I7VWrP2o": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Poisonous Snake/PoisonousSnake*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Poisonous Snake/PoisonousSnakeDesert (1).webp"
+    },
+    "ODC8zPQoOk28JAQ6": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Poisonous Snake/PoisonousSnake*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Poisonous Snake/PoisonousSnakeDesert (1).webp"
+    },
+    "sfn21pZi0fhMGDqw": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Spectral Hound/SpectralHound*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Spectral Hound/SpectralHound (1).webp"
+    },
+    "wzWOIB8UDE7BQmYs": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Specter/SpecterHuman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Specter/SpecterHumanFemale (1).webp"
+    },
+    "L0C6hYNh1Lp4Qi3R": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Sphinx/Sphinx*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Sphinx/Sphinx (1).webp"
+    },
+    "lD5sgLbignWx8gxu": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Sphinx/Sphinx*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Sphinx/Sphinx (1).webp"
+    },
+    "UnlyQAcCBUS63xKd": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Spider/Spider*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Spider/SpiderCave (1).webp"
+    },
+    "wREIzpLSLM49HnU1": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Spider/Spider*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Spider/SpiderCave (1).webp"
+    },
+    "iJ7j1FXCvNGwiKYh": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Spider/Spider*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Spider/SpiderCave (1).webp"
+    },
+    "1S3ydFC88MFg4fpz": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Phase Spider/PhaseSpider*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Phase Spider/PhaseSpiderForest (1).webp"
+    },
+    "8huwq4iizF0Mbbod": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Phase Spider/PhaseSpider*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Phase Spider/PhaseSpiderForest (1).webp"
+    },
+    "UVS1XekIJqnfyXPo": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Phase Spider/PhaseSpider*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Phase Spider/PhaseSpiderForest (1).webp"
+    },
+    "BMJhp6fo5pmMn5ft": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Phase Spider/PhaseSpider*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Phase Spider/PhaseSpiderForest (1).webp"
+    },
+    "RHcr0sJPatpgRbqP": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Phase Spider/PhaseSpider*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Phase Spider/PhaseSpiderForest (1).webp"
+    },
+    "5VkABOu0TcZFsOyp": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Phase Spider/PhaseSpider*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Phase Spider/PhaseSpiderForest (1).webp"
+    },
+    "68mi9MYvttCrn0w5": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Flameskull/Flameskull*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Flameskull/Flameskull (1).webp"
+    },
+    "2JKghHgGUjMXoXj5": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Awakened Tree/AwakenedTree*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Awakened Tree/AwakenedTree (1).webp"
+    },
+    "iohXcV0EMM6uVEQo": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Revenant/RevenantH*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Revenant/RevenantHalfingMale (2).webp"
+    },
+    "GcqgrhE3mc3m3pH3": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Beholder/Beholder*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Beholder/Beholder (1).webp"
+    },
+    "88vu5Wa1tNsn4x34": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Sprite/Sprite*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Sprite/SpriteBowFemale (1).webp"
+    },
+    "Thj5dPOuKmXxiGff": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Animated Armor/AnimatedArmor*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Animated Armor/AnimatedArmor (1).webp"
+    },
+    "2tVX8bbncHdFQQkf": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Animated Armor/AnimatedArmor*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Animated Armor/AnimatedArmor (1).webp"
+    },
+    "zCMxCoDpn1J8gehX": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Animated Armor/AnimatedArmor*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Animated Armor/AnimatedArmor (1).webp"
+    },
+    "TO5d1EBIWdJ5f7d5": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Stirge/Stirge*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Stirge/Stirge (1).webp"
+    },
+    "Rpz3whxF5ZlWYMdB": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Termite, Water/WaterTermite*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Termite, Water/WaterTermite (1).webp"
+    },
+    "NvGG1BAcJ17vKANj": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Termite, Water/WaterTermite*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Termite, Water/WaterTermite (1).webp"
+    },
+    "ecDYjGHXmlWgJzY7": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Termite, Water/WaterTermite*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Termite, Water/WaterTermite (1).webp"
+    },
+    "UtG2e4IznhIDIw09": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Ghoul/Ghoul*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Ghoul/GhoulFemale (1).webp"
+    },
+    "PlcMTmhhbkMWh6JY": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Thug/ThugHuman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Thug/ThugHumanFemaleMelee (11).webp"
+    },
+    "yHufJiYAkFWc8snV": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Thug/ThugHuman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Thug/ThugHumanFemaleMelee (11).webp"
+    },
+    "fk5KRvHfzbANipKJ": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Thug/ThugHuman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Thug/ThugHumanFemaleMelee (11).webp"
+    },
+    "8OgsW6WoF1y3nLay": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Thug/ThugHuman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Thug/ThugHumanFemaleMelee (11).webp"
+    },
+    "ZhrBBGxI1U1Usgvy": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Thug/ThugHuman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Thug/ThugHumanFemaleMelee (11).webp"
+    },
+    "q12kOJgtkvmegxJY": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Thug/ThugHuman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Thug/ThugHumanFemaleMelee (11).webp"
+    },
+    "JrMDnuPb4XK84F0h": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Thug/ThugHuman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Thug/ThugHumanFemaleMelee (11).webp"
+    },
+    "yfRQBfsbraieltkg": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Thug/ThugHuman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Thug/ThugHumanFemaleMelee (11).webp"
+    },
+    "fXPJkDCHgBkTHtBv": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Thug/ThugHuman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Thug/ThugHumanFemaleMelee (11).webp"
+    },
+    "vAgDIKyJFw8DzDtq": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Thug/ThugHuman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Thug/ThugHumanFemaleMelee (11).webp"
+    },
+    "5WeIsEFpXayuUnYn": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Thug/ThugHuman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Thug/ThugHumanFemaleMelee (11).webp"
+    },
+    "FOdgpftUK0v6NsmB": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Thug/ThugHuman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Thug/ThugHumanFemaleMelee (11).webp"
+    },
+    "MsJQR0fiR7ULTryi": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Toad/GiantToad*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Toad/GiantToadSwamp (1).webp"
+    },
+    "EhZI4yZAgrL137Ns": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Giant Toad/GiantToad*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Giant Toad/GiantToadSwamp (1).webp"
+    },
+    "qAqnOTZKwi0J5UyR": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Treant/Treant*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Treant/TreantEvil (1).webp"
+    },
+    "NiiZGvS7vbajX1n8": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Troglodyte/Troglodyte*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Troglodyte/Troglodyte (1).webp"
+    },
+    "KH8vjTQaWJ1CEjlp": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Troll/Troll*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Troll/TrollMountains (1).webp"
+    },
+    "qIeZcyIyHgCxB8Z3": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Water Elemental/WaterElemental*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Water Elemental/WaterElementalSea (1).webp"
+    },
+    "zeO7AilbaN8pCcTx": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Unicorn/Unicorn*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Unicorn/Unicorn (1).webp"
+    },
+    "O5RtaMakaiWqZFMS": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Vampire Spawn/VampireSpawnHuman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Vampire Spawn/VampireSpawnHumanFemale (1).webp"
+    },
+    "COHYWaHxKVXSVX2c": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Vampire Spawn/VampireSpawnHuman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Vampire Spawn/VampireSpawnHumanFemale (1).webp"
+    },
+    "IrVeVqYgAdlGhhEd": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Vampire Spawn/VampireSpawnHuman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Vampire Spawn/VampireSpawnHumanFemale (1).webp"
+    },
+    "dbsVzcF1lXKoRaST": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Weasel/Weasel*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Weasel/Weasel (1).webp"
+    },
+    "gH8fqUXrPnTirtmq": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Killer Whale/KillerWhale*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Killer Whale/KillerWhale (1).webp"
+    },
+    "jJa5elJncCPVR6mv": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Killer Whale/KillerWhale*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Killer Whale/KillerWhale (1).webp"
+    },
+    "djfZfj0VdfYE73Yq": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Killer Whale/KillerWhale*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Killer Whale/KillerWhale (1).webp"
+    },
+    "ZfcAxCNjJXUQ7I5M": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Wight/Wight*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Wight/Wight (1).webp"
+    },
+    "t8oTnKOxvMY04A2t": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Wraith/Wraith*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Wraith/Wraith (1).webp"
+    },
+    "iW9kMvGOdIPfa650": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Wyvern/Wyvern*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Wyvern/Wyvern (1).webp"
+    },
+    "RDng9w4AKnph2koA": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Ochre Jelly/OchreJelly*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Ochre Jelly/OchreJelly (1).webp"
+    },
+    "fIxgBWMahQGjjZuP": {
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/fade-compendiums-tokens/assets/Zombie/ZombieHuman*"
+        }
+      },
+      "actor": "modules/fade-compendiums-tokens/assets/Zombie/ZombieHumanFemale (2).webp"
+    }
+  }
+}

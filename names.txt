@@ -1,0 +1,243 @@
+Actaeon
+Adaptor
+Aerial Servant
+Air Elemental
+Animated Armor
+Ant, Giant
+Ape
+Archon/Female
+Archon/Male
+Athach
+Awakened Tree
+Baboon
+Bandit
+Banshee
+Basilisk
+Bat
+Beholder
+Beholder Zombie
+Berserker
+Black Bear
+Black Dragon Wyrmling
+Black Pudding
+Blackball
+Blink Dog
+Blue Dragon Wyrmling
+Boar
+Brown Bear
+Bugbear
+Caecilia
+Camel
+Canine/Dire Wolf
+Canine/Dog
+Canine/Fox
+Canine/Wolf
+Carrion Crawler
+Cave Bear
+Centaur
+Chimera
+Cockatrice
+Commoner
+Constrictor Snake
+Crab
+Crocodile
+Cyclops
+Deep Gnome
+Devilfish
+Dinosaur/Allosaurus
+Dinosaur/Ankylosaurus
+Dinosaur/Armored Aquatic
+Dinosaur/Brontosaurus
+Dinosaur/Flying Carnivorous
+Dinosaur/Large Aquatic
+Dinosaur/Large Carnivorous
+Dinosaur/Large Herbivore
+Dinosaur/Medium Herbivore
+Dinosaur/Plesiosaurus
+Dinosaur/Pteranodon
+Dinosaur/Pterodactyl
+Dinosaur/Pterosaur Large
+Dinosaur/Small Aquatic
+Dinosaur/Small Carnivorous
+Dinosaur/Small Herbivore
+Dinosaur/Triceratops
+Dinosaur/Tyrannosaurus Rex
+Displacer Beast
+Djinni
+Dolphin
+Doppelganger
+Draft Horse
+Dragon Turtle
+Drolem
+Dryad
+Dwarf
+Earth Elemental
+Efreeti
+Elephant
+Elf
+Elk
+Faerie Dragon
+Fire Elemental
+Fish, Giant
+Flameskull
+Gargoyle
+Gas Spore
+Gelatinous Cube
+Ghost
+Ghoul
+Giant Bat
+Giant Boar
+Giant Centipede
+Giant Crab
+Giant Eagle
+Giant Fire Beetle
+Giant Lizard
+Giant Owl
+Giant Poisonous Snake
+Giant Rat
+Giant Shark
+Giant Slug
+Giant Snail
+Giant Spider
+Giant Toad
+Giant Wasp
+Giant Weasel
+Giants/Cloud
+Giants/Fire
+Giants/Frost
+Giants/Hill
+Giants/Mountain
+Giants/Sea
+Giants/Stone
+Giants/Storm
+Gnoll
+Gnoll Pack Lord
+Goblin
+Goblin Boss
+Gold Dragon Wyrmling
+Gorgon
+Gray Ooze
+Green Dragon Wyrmling
+Green Slime
+Gremlin
+Griffon
+Hags/Black
+Halfling
+Harpy
+Headsman
+Helion
+Hellhound
+Hippogriff
+Hobgoblin
+Hobgoblin Captain
+Humans/Buccaneer
+Humans/Dervish
+Humans/Normal
+Hunter Shark
+Hydra
+Ice Mephit
+Invisible Stalker
+Killer Whale
+Kobold
+Kryst
+Leech, Giant
+Lich
+Lion
+Lizardfolk
+Lupin
+Lycanthropes/Devil Swine
+Lycanthropes/Werebat
+Lycanthropes/Werebear
+Lycanthropes/Wereboar
+Lycanthropes/Werefox
+Lycanthropes/Wererat
+Lycanthropes/Wereseal
+Lycanthropes/Wereshark
+Lycanthropes/Weretiger
+Lycanthropes/Werewolf
+Magen/Caldron
+Magen/Demos
+Magen/Galvan
+Magen/Hypnos
+Magma Mephit
+Malfera
+Mammoth
+Manscorpion
+Manta Ray
+Manticore
+Medusa
+Mek
+Merfolk
+Metamorph
+Minotaur
+Mud Mephit
+Mujina
+Mule
+Mummy
+Neanderthal
+Nekrozon
+Noble
+Nuckalavee
+Ochre Jelly
+Ogre
+Orc
+Orc War Chief
+Owlbear
+Panther
+Pegasus
+Phase Spider
+Phoenix
+Pixie
+Plasm
+Poisonous Snake
+Polar Bear
+Poltergeist
+Pony
+Purple Worm
+Rakasta
+Rat
+Red Dragon Wyrmling
+Revenant
+Riding Horse
+Rust Monster
+Saber-Toothed Tiger
+Salamander
+Scarecrow
+Scorpion
+Sea Hag
+Shadow
+Shrieker
+Skeleton
+Specter
+Spectral Hound
+Sphinx
+Spider
+Sprite
+Stirge
+Stone Golem
+Swarm of Insects
+Termite, Water
+Thug
+Tiger
+Treant
+Tribal Warrior
+Troglodyte
+Troll
+Unicorn
+Vampire Spawn
+Vine Blight
+Warhorse
+Water Elemental
+Weasel
+White Dragon Wyrmling
+Wight
+Wraith
+Wyvern
+Yeti
+Young Black Dragon
+Young Blue Dragon
+Young Gold Dragon
+Young Green Dragon
+Young Red Dragon
+Young White Dragon
+Zombie
