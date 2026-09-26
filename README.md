@@ -1,5 +1,7 @@
 # Fantastic Depths Compendiums Tokens
 
+<img width="832" height="618" alt="image" src="https://github.com/user-attachments/assets/60578b96-113c-4b5d-88fe-ef5398ccb6bb" />
+
 Token artwork for Fantastic Depths monsters. Enable alongside Fantastic Depths and Fantastic Depths Compendiums; art is applied automatically through Foundry’s Compendium Art settings.
 
 Module id: `fade-compendiums-tokens`
