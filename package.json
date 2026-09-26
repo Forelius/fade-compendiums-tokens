@@ -1,0 +1,21 @@
+{
+  "name": "fade-compendiums-tokens",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Token artwork module for Fantastic Depths / fade-compendiums",
+  "scripts": {
+    "generate-art-map": "node scripts/generate-art-map.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Forelius/fade-compendiums-tokens.git"
+  },
+  "keywords": [],
+  "author": "forelius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Forelius/fade-compendiums-tokens/issues"
+  },
+  "homepage": "https://github.com/Forelius/fade-compendiums-tokens#readme",
+  "dependencies": {}
+}

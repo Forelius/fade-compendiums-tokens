@@ -1,5 +1,7 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/.vs
+﻿.vs
+node_modules
+/module.zip
+/fade-compendiums-tokens.zip
+/notes.txt
+/.cursor
+/.vscode

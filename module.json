@@ -1,7 +1,7 @@
 {
   "id": "fade-compendiums-tokens",
   "title": "Fantastic Depths Compendiums Tokens",
-  "version": "1.0.0",
+  "version": "#{VERSION}#",
   "compatibility": {
     "minimum": "11",
     "verified": "13",
@@ -16,6 +16,7 @@
     },
     {
       "name": "forelius",
+      "url": "https://github.com/Forelius",
       "discord": "forelius",
       "flags": {}
     }
@@ -44,7 +45,8 @@
       }
     }
   },
-  "url": "",
-  "manifest": "",
-  "download": ""
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
+  "changelog": "#{CHANGELOG}#"
 }
