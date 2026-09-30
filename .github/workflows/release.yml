@@ -27,7 +27,7 @@ jobs:
         env:
           VERSION: ${{ env.VERSION }}
           URL: https://github.com/${{ github.repository }}
-          MANIFEST: https://github.com/${{ github.repository }}/releases/download/${{ env.VERSION }}/module.json
+          MANIFEST: https://github.com/${{ github.repository }}/releases/download/lates/module.json
           DOWNLOAD: https://github.com/${{ github.repository }}/releases/download/${{ env.VERSION }}/module.zip
           CHANGELOG: https://github.com/${{ github.repository }}/releases/tag/${{ env.VERSION }}
 
@@ -46,22 +46,6 @@ jobs:
             echo "is_valid=false" >> $GITHUB_ENV
           fi
 
-      # No LevelDB pack compile/decompile for this module (token art only).
-      # - name: Setup Node.js
-      #   if: env.is_valid == 'true'
-      #   uses: actions/setup-node@v4
-      #   with:
-      #     node-version: '20'
-      #     cache: 'npm'
-      #
-      # - name: Install dependencies
-      #   if: env.is_valid == 'true'
-      #   run: npm ci
-      #
-      # - name: Compile packs
-      #   if: env.is_valid == 'true'
-      #   run: npm run comppacks
-
       - name: Prepare release zip
         if: env.is_valid == 'true'
         run: |
@@ -76,7 +60,6 @@ jobs:
             -x 'package.json' \
             -x 'package-lock.json' \
             -x '.vscode/*' \
-            -x '.cursor/*'
 
       - name: Prepare release notes
         if: env.is_valid == 'true'
@@ -90,7 +73,7 @@ jobs:
             printf "%s\n" "$RELEASE_BODY"
             echo
             echo "To install manually, use this URL:"
-            echo "https://github.com/${{ github.repository }}/releases/download/${{ env.VERSION }}/module.json"
+            echo "https://github.com/${{ github.repository }}/releases/download/latest/module.json"
           } > release_notes.txt
 
       - name: Create GitHub release
