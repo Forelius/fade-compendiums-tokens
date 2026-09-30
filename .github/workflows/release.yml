@@ -27,7 +27,7 @@ jobs:
         env:
           VERSION: ${{ env.VERSION }}
           URL: https://github.com/${{ github.repository }}
-          MANIFEST: https://github.com/${{ github.repository }}/releases/download/lates/module.json
+          MANIFEST: https://github.com/${{ github.repository }}/releases/download/latest/module.json
           DOWNLOAD: https://github.com/${{ github.repository }}/releases/download/${{ env.VERSION }}/module.zip
           CHANGELOG: https://github.com/${{ github.repository }}/releases/tag/${{ env.VERSION }}
 

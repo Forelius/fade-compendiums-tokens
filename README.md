@@ -6,11 +6,15 @@ Token artwork for Fantastic Depths monsters. Enable alongside Fantastic Depths a
 
 Module id: `fade-compendiums-tokens`
 
-## Releases
+## Install
 
-Publish a GitHub release targeting the `main` branch. Actions builds `module.zip` and a versioned `module.json`.
+### From a GitHub release
 
-Install from the release `module.json` URL (Foundry package directory publish is not enabled yet).
+1. In Foundry **Configuration and Setup** → **Add-on Modules** → **Install Module**
+2. Paste the release manifest URL, e.g.  
+   `https://github.com/Forelius/fade-compendiums-tokens/releases/download/latest/module.json`  
+   (or a specific version under `releases/download/<tag>/module.json`)
+3. Enable **Fantastic Depths Compendiums Tokens** in the world.
 
 ## Attribution
 
