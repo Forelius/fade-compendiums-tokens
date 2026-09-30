@@ -21,15 +21,13 @@ jobs:
       # Substitute Manifest and Download URLs in the module.json
       - name: Substitute Manifest and Download Links For Versioned Ones
         id: sub_manifest_link_version
-        uses: cschleiden/replace-tokens@v1
+        uses: microsoft/variable-substitution@v1
         with:
           files: 'module.json'
         env:
-          VERSION: ${{ env.VERSION }}
-          URL: https://github.com/${{ github.repository }}
-          MANIFEST: https://github.com/${{ github.repository }}/releases/download/latest/module.json
-          DOWNLOAD: https://github.com/${{ github.repository }}/releases/download/${{ env.VERSION }}/module.zip
-          CHANGELOG: https://github.com/${{ github.repository }}/releases/tag/${{ env.VERSION }}
+          version: ${{github.event.release.tag_name}}
+          manifest: https://github.com/${{github.repository}}/releases/latest/download/module.json
+          download: https://github.com/${{github.repository}}/releases/download/${{github.event.release.tag_name}}/module.zip
 
       - name: Fetch all branches and tags
         run: git fetch --all --tags
@@ -61,36 +59,41 @@ jobs:
             -x 'package-lock.json' \
             -x '.vscode/*' \
 
+      # Prepare release notes
       - name: Prepare release notes
-        if: env.is_valid == 'true'
         id: prepare_notes
-        env:
-          RELEASE_BODY: ${{ github.event.release.body }}
         run: |
-          {
-            echo "## Fantastic Depths Compendiums Tokens"
-            echo
-            printf "%s\n" "$RELEASE_BODY"
-            echo
-            echo "To install manually, use this URL:"
-            echo "https://github.com/${{ github.repository }}/releases/download/latest/module.json"
-          } > release_notes.txt
+          echo "" >> release_notes.txt
+          echo ${{ github.event.release.body }} >> release_notes.txt
+          echo "To install manually, use this URL:" >> release_notes.txt
+          echo "https://github.com/${{github.repository}}/releases/download/latest/module.json" >> release_notes.txt
 
       - name: Create GitHub release
-        if: env.is_valid == 'true'
         uses: ncipollo/release-action@v1
         with:
-          tag: ${{ env.VERSION }}
-          name: "Release ${{ env.VERSION }}"
+          allowUpdates: true # Set this to false if you want to prevent updating existing releases
+          name: ${{ github.event.release.name }}
+          draft: false
           prerelease: false
-          artifacts: './module.json, ./module.zip'
-          bodyfile: release_notes.txt
           token: ${{ secrets.GITHUB_TOKEN }}
-          allowUpdates: true
-          replacesArtifacts: true
-          updateOnlyUnreleased: false
-          makeLatest: true
+          artifacts: './module.json, ./module.zip'
+          tag: ${{ github.event.release.tag_name }}
+          bodyfile: release_notes.txt
 
+      # Update the 'latest' release
+      - name: Create Release
+        id: create_latest_release
+        uses: ncipollo/release-action@v1
+        with:
+          allowUpdates: true
+          name: Latest
+          draft: false
+          prerelease: false
+          token: ${{ secrets.GITHUB_TOKEN }}
+          artifacts: './module.json,./module.zip'
+          tag: latest
+          bodyfile: release_notes.txt
+          
       # Not publishing to Foundry's package directory yet (pending approval).
       # - name: Publish Module to FoundryVTT Website
       #   if: env.is_valid == 'true' && !github.event.release.unpublished && !github.event.release.prerelease
