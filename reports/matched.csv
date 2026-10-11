@@ -1,0 +1,530 @@
+id,name,folder,method
+tfIYJfMcVa8AIjyd,Actaeon (Elk Centaur),Actaeon,alias
+B0Dxj0TPVmCR2uHk,Adaptor,Adaptor,alias
+OlYmiMKOeZtTim0B,Aerial Servant (Haoou)*,Aerial Servant,alias
+ScSV1GwwMG8SLXBV,Animal Herd (1 HD),Elk,alias
+Qs4gN2CgWpZDGLig,Animal Herd (2 HD),Elk,alias
+ZHORkcj3Jp2d9aIr,Animal Herd (3 HD),Elk,alias
+Hktyl676CO9F2CqQ,Animal Herd (4 HD),Elk,alias
+otZUUPhZJg7J9xnS,"Ant, Giant","Ant, Giant",alias
+R3XEgFCArEXKmolX,"Ape, Snow",Ape,alias
+mqQUEpLtIFtwsKuW,"Ape, White",Ape,alias
+I7I2SHshQYBsEWNe,Archon (Female),Archon/Female,alias
+SMUlvN2u22PfD5hb,Archon (Male),Archon/Male,alias
+hdpWB3TR1l3v5kLD,Athach,Athach,alias
+Qe73A22rHMxP1J6m,"Baboon, Rock",Baboon,alias
+rqWVOdrALlCdouwK,Basilisk,Basilisk,exact
+n50z0ac3B0zwsLQp,"Bat, Giant",Bat,structural
+euonV2guGYdGcJQV,"Bat, Giant Vampire",Giant Bat,alias
+LN2Pk0HK66twdjGu,"Bat, Normal",Bat,alias
+uAvXxrqpfyTcNBay,"Bear, Black",Black Bear,structural
+8VEfACdfqwkmVYvv,"Bear, Cave",Cave Bear,structural
+YXnLqKFkmdFTHdtC,"Bear, Grizzly",Brown Bear,alias
+US9bbL6db8T16FgG,"Bear, Polar",Polar Bear,structural
+lHxxKhgL4bbUWZw7,"Bee, Giant",Giant Wasp,alias
+M5ibRbXxderc9wbC,"Bee, Giant (1HD)",Giant Wasp,alias
+6FcQ2B2dG5LRvwTC,"Beetle, Giant Fire",Giant Fire Beetle,structural
+L8SJUT3fIzJw6xlK,"Beetle, Giant Oil",Giant Fire Beetle,alias
+AL9hNMkeO2mhlUGU,"Beetle, Giant Tiger",Giant Fire Beetle,alias
+H189S0a8G0bThNfy,"Beholder, Undead*",Beholder Zombie,alias
+TiDwqTfBvfJop4IF,Beholder,Beholder,alias
+cjl2DDVWOQAbTY24,Blackball (Deadly Sphere),Blackball,alias
+B5efkZ8PvLYT0tD5,Black Pudding*,Black Pudding,alias
+uM5nukRRjxzU9Wpc,Blast Spore,Gas Spore,alias
+QyDZ7pag954K5Xam,Blink Dog,Blink Dog,exact
+XjniW8q1ALn5MYsZ,"Boar, Great",Giant Boar,alias
+WjjNYqNlATmZeytu,"Boar, Normal",Boar,alias
+5px1PtF3VqfpotTy,Bugbear,Bugbear,exact
+lYgXYeUclfcLHsrg,Caecilia,Caecilia,alias
+yuscgQo8thsyp6HP,"Dog, Normal",Canine/Dog,alias
+PKRKEirB2MKZqRXd,"Dog, War",Canine/Dog,alias
+qFxGSfacvoqlSoD7,Fox,Canine/Fox,alias
+4PUXUMLbZwb9SaDM,"Wolf, Dire",Canine/Dire Wolf,alias
+WKbSIoK7it7NgLXg,"Wolf, Normal",Canine/Wolf,alias
+93HCqREXiA2BbHR1,Carrion Crawler,Carrion Crawler,alias
+MXaa5C4ch4uLG2F4,"Cat, Lion",Lion,alias
+FCwq2STi6myei4hU,"Cat, Mountain Lion",Panther,alias
+5e9ubDSrAn1y3y2n,"Cat, Panther",Panther,alias
+5mRW0PyWXM3NyF9C,"Cat, Sabre-Tooth Tiger",Saber-Toothed Tiger,alias
+m2ikW85KDtolURpU,"Cat, Tiger",Tiger,alias
+Ta2HEFfce6G1k3g8,Centaur,Centaur,alias
+g6XIqtw7I815FigN,"Centipede, Giant",Giant Centipede,structural
+VWs3X9tU2MUzc2pK,Chimera,Chimera,exact
+v4aafWntVG3WedsQ,Cockatrice,Cockatrice,exact
+LOXvSIZsdvix1Avc,"Crab, Giant",Crab,structural
+2FAwEsA0yvXQ8BeR,"Crocodile, Giant",Crocodile,structural
+TYB76cjIxKDauCV9,"Crocodile, Large",Crocodile,alias
+Bp8x1u6QAFJvc1vU,"Crocodile, Normal",Crocodile,alias
+uovYjpSokQFpPqKq,Cyclops,Cyclops,exact
+8ZbYKPLbUKWoPxg3,"Devilfish, Acolyte",Devilfish,alias
+0LYCmNOCNUA5UlQr,"Devilfish, Bishop",Devilfish,alias
+BgRPeAqrln4x04YL,"Devilfish, Curate",Devilfish,alias
+A91neEFK2KLKRxog,"Devilfish, Matriarch*",Devilfish,alias
+e1TvUEVv2JEZJm7c,"Devilfish, Patriarch*",Devilfish,alias
+hhvjyEeP5h3hDjIT,"Devilfish, Priest",Devilfish,alias
+bJgO6mEYrhvNz8HS,Allosaurus,Dinosaur/Allosaurus,alias
+I3Z79cL0CFqh3pJn,Ankylosaurus,Dinosaur/Ankylosaurus,alias
+ZDGZh83ow62zhhHi,Brontosaurus,Dinosaur/Brontosaurus,alias
+YhQjQ46MNqGwKU15,"Dinosaur, Armored Aquatic (6HD)",Dinosaur/Armored Aquatic,alias
+v5TeihlknxR3Cd1v,"Dinosaur, Flying Carnivorous  (1HD)",Dinosaur/Flying Carnivorous,alias
+zYly8wMfNKHfYs5N,"Dinosaur, Large Aquatic (9HD)",Dinosaur/Large Aquatic,alias
+gPBmBJMEORdJVvuL,"Dinosaur, Large Carnivorous (6HD)",Dinosaur/Large Carnivorous,alias
+9GcMIltT98LVqRbD,"Dinosaur, Large Herbivore (13HD)",Dinosaur/Large Herbivore,alias
+mPYYdcN7xg9iKpjx,"Dinosaur, Medium Herbivore (6HD)",Dinosaur/Medium Herbivore,alias
+UdfRsOKiWaiPNUPw,"Dinosaur, Small Aquatic (2HD)",Dinosaur/Small Aquatic,alias
+x5z9ER9RfXBw1zo8,"Dinosaur, Small Carnivorous (1HD)",Dinosaur/Small Carnivorous,alias
+wVPMUdPKxc9ZGcHo,"Dinosaur, Small Herbivore (1HD)",Dinosaur/Small Herbivore,alias
+K5KJHZrBNm3uqqqN,Plesiosaurus,Dinosaur/Plesiosaurus,alias
+9QvqypcszGRWppDB,"Pterosaur, Large",Dinosaur/Pterosaur Large,alias
+tgQEWSWbRBRDiEKj,"Pterosaur, Medium (Pteranodon)",Dinosaur/Pteranodon,alias
+8Of6kVwUxSSJS6ZL,"Pterosaur, Small (Pterodactyl)",Dinosaur/Pterodactyl,alias
+DWL3quzcjtKXVA3U,Triceratops,Dinosaur/Triceratops,alias
+C1ja5aJldxd0PnIv,Tyrannosaurus Rex,Dinosaur/Tyrannosaurus Rex,alias
+eA4eRFSfiBxY19ll,Displacer Beast,Displacer Beast,alias
+rmvpPfpZW3hW5CJd,"Djinni, Greater; Pasha*",Djinni,alias
+5dQIF5qOnyrh6br4,"Djinni, Lesser*",Djinni,alias
+Y6QIu1phRPJuCJwj,Dolphin,Dolphin,alias
+StmKdEWX0dDnGDbj,Doppleganger,Doppelganger,alias
+o4fvBDEb75hQz3Cb,"Dragon, Black (Huge)",Young Black Dragon,alias
+0EtAFVM6AeCZVUek,"Dragon, Black (Large)",Young Black Dragon,alias
+e5RafGI3Ufyu1cVs,"Dragon, Black (Small)",Black Dragon Wyrmling,alias
+0YHhsLFEOOu1lY88,"Dragon, Blue (Huge)",Young Blue Dragon,alias
+fKlh8fMrqS8i1yzg,"Dragon, Blue (Large)",Young Blue Dragon,alias
+UttRCxBQVIDdhQsd,"Dragon, Blue (Small)",Blue Dragon Wyrmling,alias
+1IEPooTD2M81A1KI,"Dragon, Gold (Huge)",Young Gold Dragon,alias
+y1mQX4M62INdfeZj,"Dragon, Gold (Large)",Young Gold Dragon,alias
+hwFaPQEh5xg7k1Aa,"Dragon, Gold (Small)",Gold Dragon Wyrmling,alias
+U4mHHB1kxhLqSeRb,"Dragon, Green (Huge)",Young Green Dragon,alias
+yuvekRth5f9hs5FG,"Dragon, Green (Large)",Young Green Dragon,alias
+DXetjL8gZnouFVXR,"Dragon, Green (Small)",Green Dragon Wyrmling,alias
+427IcdQRRKlAjeLF,"Dragon, Red (Huge)",Young Red Dragon,alias
+n2pdubQj3Lw9M7Xp,"Dragon, Red (Large)",Young Red Dragon,alias
+WTlvfSJxGCjCtf7Z,"Dragon, Red (Small)",Red Dragon Wyrmling,alias
+0AEPnZ6fzo0Ht24g,"Dragon, White (Huge)",Young White Dragon,alias
+AvBsRLh9aJ0La8sG,"Dragon, White (Large)",Young White Dragon,alias
+U8maEWtU7rWKYg13,"Dragon, White (Small)",White Dragon Wyrmling,alias
+d3OYgXsZQrG37iGk,Dragon Turtle*,Dragon Turtle,alias
+Lq1cgfUP0dHSxcKz,"Drake, Colddrake",Young White Dragon,alias
+RQC1zOJrm2eU3BHS,"Drake, Elemental*",Young Red Dragon,alias
+cpfHDocoBNGKAr1I,"Drake, Mandrake",Faerie Dragon,alias
+tMsCaqp9x8zXRgSX,"Drake, Wooddrake",Young Green Dragon,alias
+LKJMDUDSAHFOXQIV,Drolem*,Drolem,alias
+m3T1Rmvx6j2UB9gQ,Dryad,Dryad,alias
+guUudtbBiSD4tSFN,Dwarf (1 HD),Dwarf,alias
+HWOPi9LeCcJY2qoW,"Efreeti, Lesser*",Efreeti,alias
+7Tn6jB63dFj6MA2L,"Efreeti (Greater, Amir)*",Efreeti,alias
+fp2DwGMWmXFOsKdb,"Elemental, Air (Device)*",Air Elemental,structural
+qDZftV7pu1Q7Mntu,"Elemental, Air (Plane of Air)*",Air Elemental,structural
+KjOoIPa0T41AzAoZ,"Elemental, Air (Spell)*",Air Elemental,structural
+ho5teMwpZxIf8VLP,"Elemental, Air (Staff)*",Air Elemental,structural
+fyHktie34gnPyjHA,"Elemental, Earth (Device)*",Earth Elemental,structural
+wC7AjxLBNNQj9EcV,"Elemental, Earth (Plane of Earth)*",Earth Elemental,structural
+EyR0m8wAgIlbK0GG,"Elemental, Earth (Spell)*",Earth Elemental,structural
+XTzwjHdvTx9h4tPF,"Elemental, Earth (Staff)*",Earth Elemental,structural
+Qvih0BeMIPkF6KkO,"Elemental, Fire (Device)*",Fire Elemental,structural
+4VpP3DM3A6IGqOzQ,"Elemental, Fire (Plane of Fire)*",Fire Elemental,structural
+qcsttv3yDyLuONBW,"Elemental, Fire (Spell)*",Fire Elemental,structural
+2jRo5g6hy0o07HyF,"Elemental, Fire (Staff)*",Fire Elemental,structural
+lrMXxWF9EjZD6qiK,"Elemental, Water (Device)*",Water Elemental,structural
+oL0gGtdW4hR2SOjC,"Elemental, Water (Plane of Water)*",Water Elemental,structural
+92D5yNzmEFDIipuX,"Elemental, Water (Spell)*",Water Elemental,structural
+BK8mtxr7LUZ6CXCn,"Elemental, Water (Staff)*",Water Elemental,structural
+6ywlI8hyrvMzkfTW,"Elemental Ruler, Air (Plane of Air)*",Air Elemental,alias
+qpNdU8Rqtdco42oH,"Elemental Ruler, Earth (Plane of Earth)*",Earth Elemental,alias
+Ei2iWY6y5gfzUjQ1,"Elemental Ruler, Fire (Plane of Fire)*",Fire Elemental,alias
+MwUxiFwh3BazTl95,"Elemental Ruler, Water (Plane of Water)*",Water Elemental,alias
+HSt0o0oNJm5Gdb7Z,"Elephant, Normal",Elephant,alias
+ud1jbch6xSmc7NSs,"Elephant, Prehistoric (Mastodon)",Mammoth,alias
+9pUF0lH2A71umXg0,Elf (1 HD),Elf,alias
+7mEcQw80ZVlnuptU,Elf (2 HD),Elf,alias
+JXEfZmQdVblAKpFR,Elf (3 HD),Elf,alias
+3qHM19HNZODBuAc4,Faerie,Pixie,alias
+zpdNz0fH5UWQD5WR,"Ferret, Giant",Giant Weasel,alias
+R85BPsR5t0rblkkq,"Fish, Giant Bass","Fish, Giant",alias
+DN7dd4SxPbS2ukf4,"Fish, Giant Rockfish","Fish, Giant",alias
+ixzgD3qZbwon9nJu,"Fish, Giant Sturgeon","Fish, Giant",alias
+y0fthE0fw8kPg4cg,"Gargantua, Carrion Crawler",Carrion Crawler,alias
+gunsXxH5g8QQde2N,"Gargantua, Gargoyle*",Gargoyle,alias
+XTAZMjozP1lbeHam,"Gargantua, Troll",Troll,alias
+rkGvs3K7rorFT3Gb,Gargoyle*,Gargoyle,exact
+SWp5CtREyIQOwrPt,Gelatinous Cube,Gelatinous Cube,exact
+axQLZuNtlLVuaZ4B,Ghoul,Ghoul,exact
+dSKdjBvM6fUkKoy1,"Giant, Cloud",Giants/Cloud,alias
+6SVJaWShHDf6U54R,"Giant, Fire",Giants/Fire,alias
+BgDcOHy8nmiAih3z,"Giant, Frost",Giants/Frost,alias
+UFb21ansA4HP2roM,"Giant, Hill",Giants/Hill,alias
+sPbJKcpv4Q6sSp0E,"Giant, Mountain (12HD)",Giants/Mountain,alias
+Zmp6ZiXajhuDCNid,"Giant, Mountain (13HD)",Giants/Mountain,alias
+uMfEGqHhJThvsHse,"Giant, Mountain (14HD)",Giants/Mountain,alias
+iGQ8EvddKvXbdf8G,"Giant, Mountain (15HD)",Giants/Mountain,alias
+R9IiATFLsY6Bk53Q,"Giant, Mountain (16HD)",Giants/Mountain,alias
+4d9L11A9wNhq8KlY,"Giant, Mountain (17HD)",Giants/Mountain,alias
+1LncdXTLPhgUi274,"Giant, Mountain (18HD)",Giants/Mountain,alias
+Fwt6fqhFpjxyWR6Y,"Giant, Mountain (19HD)",Giants/Mountain,alias
+e2CbDaC2O6qnl8QY,"Giant, Mountain (20HD)",Giants/Mountain,alias
+Gs3m3KdmC0kWhJIq,"Giant, Sea (10HD)",Giants/Sea,alias
+d2Z5QA4lJagtoQwk,"Giant, Sea (11HD)",Giants/Sea,alias
+oqLgt22DhKUDNhrA,"Giant, Sea (12HD)",Giants/Sea,alias
+nPIDNSMLT4wM48Jm,"Giant, Sea (13HD)",Giants/Sea,alias
+hx4nzIbqNkp25LLE,"Giant, Sea (14HD)",Giants/Sea,alias
+LYIhH4upOrmyroPx,"Giant, Sea (15HD)",Giants/Sea,alias
+I9a0vnxoYjIPwaTl,"Giant, Sea (9HD)",Giants/Sea,alias
+GunD699F75jG9UMN,"Giant, Stone",Giants/Stone,alias
+jljpFsfcO8RXAQwk,"Giant, Storm",Giants/Storm,alias
+zqzL03sIeoV2wZGk,"Slug, Giant (10 HD)",Giant Slug,alias
+d2VmWFjj9kw3F2Ww,"Slug, Giant (11 HD)",Giant Slug,alias
+xgOqASvFIcZaQEOq,"Slug, Giant (12 HD)",Giant Slug,alias
+hGI9fn5H6gy7QAbb,"Slug, Giant (13 HD)",Giant Slug,alias
+tEpfZP3W0IedmdQt,"Slug, Giant (14 HD)",Giant Slug,alias
+AVVGq5f9seul3XrT,"Slug, Giant (15 HD)",Giant Slug,alias
+Y6LM2Lr9l1GfTNrN,"Slug, Giant (16 HD)",Giant Slug,alias
+oHkSx8ROP9vHPDcn,"Slug, Giant (17 HD)",Giant Slug,alias
+FkOX24tbUa8REUhc,"Slug, Giant (18 HD)",Giant Slug,alias
+fCTGDPNpzYskLcRT,"Slug, Giant (19 HD)",Giant Slug,alias
+IgZtRt0Gvyhj3eZT,"Slug, Giant (20 HD)",Giant Slug,alias
+5PjeHRoBJvsBUWpC,"Slug, Giant (9 HD)",Giant Slug,alias
+9IadvMuWY4f9di9h,"Snail, Giant (10 HD)",Giant Snail,alias
+1WBnRZ5mhqbh9ES8,"Snail, Giant (11 HD)",Giant Snail,alias
+4NjFzao36tZJPdoC,"Snail, Giant (12 HD)",Giant Snail,alias
+Mgx4Si9L1tnGwJ1z,"Snail, Giant (13 HD)",Giant Snail,alias
+GPCz6X3mZ5B91sNb,"Snail, Giant (14 HD)",Giant Snail,alias
+q6lJ1GV0Kn4mEvmw,"Snail, Giant (15 HD)",Giant Snail,alias
+PoUEiruBlGgIymE4,"Snail, Giant (16 HD)",Giant Snail,alias
+mWkhzQmdrcau9rYU,"Snail, Giant (17 HD)",Giant Snail,alias
+CPCcMZyVlq4IjA7Z,"Snail, Giant (18 HD)",Giant Snail,alias
+BkVpRT97og6rlJ1a,"Snail, Giant (19 HD)",Giant Snail,alias
+lhOa8QFXd1Or7kLd,"Snail, Giant (20 HD)",Giant Snail,alias
+HOZGZRzeF4JWzU09,"Snail, Giant (9 HD)",Giant Snail,alias
+HqFmSqcFv1R5WXY2,Gnoll,Gnoll,exact
+XBfBHqaqKPwFuREx,Gnoll Leader,Gnoll Pack Lord,alias
+8qrZ6BR4mnos5TNV,"Gnome, Chieftain",Deep Gnome,alias
+6GjqbxA4jbF43hks,"Gnome, Leader",Deep Gnome,alias
+n1P5QlOhEaopZPeT,Gnome,Deep Gnome,alias
+kq2aAg6OCWbOLOxR,Goblin,Goblin,exact
+coiQoVTorTUlhIZ9,Goblin (2HD),Goblin,alias
+QUbVvCqqbw8KHDK7,Goblin Bow (1HD),Goblin,alias
+QXoYh4B1migXhxSV,Goblin Chief (4HD),Goblin Boss,alias
+Le8IHrEGRqJgeuRN,"Golem, Amber*",Lion,alias
+z9lWmYsh6S1HhL35,"Golem, Bone*",Skeleton,alias
+2YJeOzknpdtZPzKH,"Golem, Bronze*",Animated Armor,alias
+iLAQRsgcnhEqdgKb,"Golem, Mud*",Mud Mephit,alias
+pwi46uMm658hZ9SQ,"Golem, Obsidian*",Stone Golem,alias
+DrucniROFX8WUrgi,"Golem, Wood*",Scarecrow,alias
+pxbk2OFLmZl2wASE,"Gorgon, Elemental Plane of Earth",Gorgon,structural
+fJfDm9Y5LUKURGXM,Gorgon,Gorgon,exact
+dK13I1lIm1BelYuM,Grab Grass,Vine Blight,alias
+MCtu9vXbaNhy24hH,Gray Ooze,Gray Ooze,exact
+56ljouoCm7aDOC3Q,Green Slime*,Green Slime,alias
+2bTYQpXFLj9ZnNL3,Gremlin,Gremlin,alias
+hC38RIHvV8FHOaRR,Griffon,Griffon,alias
+HTkGuHEdoR8aIa0O,Guardian Owl (10HD),Giant Owl,alias
+tFTFqd5ZYPm5a9qF,Guardian Owl (11HD),Giant Owl,alias
+O5BYDbS5Iyouc7B1,Guardian Owl (12HD),Giant Owl,alias
+1VfT594HFnAyaDoM,Guardian Owl (13HD),Giant Owl,alias
+2Rk0VvNg8cezaFkC,Guardian Owl (14HD),Giant Owl,alias
+3BeaacrVAxu8DdbF,Guardian Owl (15HD),Giant Owl,alias
+MZqCnZJvNMvWYn37,Guardian Owl (4HD),Giant Owl,alias
+lx1dMEzJEfMsbSTf,Guardian Owl (5HD),Giant Owl,alias
+wbDEAjTTLJ8tVMWK,Guardian Owl (6HD),Giant Owl,alias
+MtM1b6SMpbWxCUcS,Guardian Owl (7HD),Giant Owl,alias
+hjUZIP2xIg9VPpLK,Guardian Owl (8HD),Giant Owl,alias
+AU1legywWpS4hNH3,Guardian Owl (9HD),Giant Owl,alias
+j6LmXVHWzggETvwV,Black Hag (11 HD),Hags/Black,alias
+IdppdYGFmrS7Bloe,Black Hag (12 HD),Hags/Black,alias
+9pd1qFiZ6LknJBkc,Black Hag (13 HD),Hags/Black,alias
+WmFhNDp9K8E4rXiV,Black Hag (14 HD),Hags/Black,alias
+1JDAozE5OkXmUfxn,Black Hag (15 HD),Hags/Black,alias
+q4BCYAYnHRJ1Xg2C,Black Hag (16 HD),Hags/Black,alias
+M5xv0jThcMy5d0sI,Black Hag (17 HD),Hags/Black,alias
+SfJvm2syAP8cA5z8,Black Hag (18 HD),Hags/Black,alias
+lldbG4rM9NCmn5eZ,Black Hag (19 HD),Hags/Black,alias
+6bOwizecOXLSsOL8,Black Hag (20 HD),Hags/Black,alias
+pvoLmrvjptuEBiua,Sea Hag*,Sea Hag,exact
+6qDMmsUkBSuvuLh7,Halfling,Halfling,alias
+HAixVC58xx8ZcMMO,Halfling (2HD),Halfling,alias
+d4XNKn2BtRF9i2b4,Harpy,Harpy,exact
+HOnNY1iJprPy177I,"Haunt, Banshee*",Banshee,alias
+uVU3mGEPCEZRBeUS,"Haunt, Ghost* (Chaotic)",Ghost,alias
+zHZkAdD0cco2SS7H,"Haunt, Ghost* (Lawful)",Ghost,alias
+T3c8khRiyINi0dgo,"Haunt, Ghost* (Neutral)",Ghost,alias
+t98lsSC3RVBIc3ZP,"Haunt, Poltergeist*",Poltergeist,alias
+JSWFNZ3ebpmJBOWE,Headsman (10HD),Headsman,alias
+DeyQFtLAD2uk6XpT,Headsman (11HD),Headsman,alias
+RSLOV5nLIPmdQEZg,Headsman (12HD),Headsman,alias
+LuROqlGzGWNE4IOw,Headsman (1HD),Headsman,alias
+4ckGxakkP035zeV3,Headsman (2HD),Headsman,alias
+vOIGThjt3svPAF6A,Headsman (3HD),Headsman,alias
+KMGCpbxErxooeqqR,Headsman (4 HD),Headsman,alias
+feLEy9mOVPJU2dqe,Headsman (5HD),Headsman,alias
+BuTa9Lzs0aAC8hfW,Headsman (6HD),Headsman,alias
+jdmoD0SPvwRTI9Po,Headsman (7HD),Headsman,alias
+5XD6BADsnkbzqW0a,Headsman (8HD),Headsman,alias
+rwfovkksDPkjntPg,Headsman (9HD),Headsman,alias
+hZzo92kDVWavY18c,Helion*,Helion,alias
+YCoWWeAatCHKhl4P,Hellhound (3HD),Hellhound,exact
+5EhGVUsv5DY7eFoQ,Hellhound (4HD),Hellhound,exact
+EkDcdkTNHfnjIRCd,Hellhound (5HD),Hellhound,exact
+UPa99Qgd2YsOpb6u,Hellhound (6HD),Hellhound,exact
+RjNBAMnfsEkCycNc,Hellhound (7HD),Hellhound,exact
+ehLtExOqw3AZUMGm,Hippogriff,Hippogriff,alias
+cqA8bRxYul1fKqrx,"Hobgoblin, Bodyguard",Hobgoblin,alias
+EMgHTzvjVhVgleVc,"Hobgoblin, King",Hobgoblin Captain,alias
+pqMSUZDTxBkzJRXt,Hobgoblin,Hobgoblin,exact
+l0JWRUFctI8TYJbM,Horde (11HD),Swarm of Insects,alias
+EsOysQjrxZd7DSfM,Horde (13HD),Swarm of Insects,alias
+SrEp7qwyoSd5upmI,Horde (17HD),Swarm of Insects,alias
+i6cptjO4zECXRZkG,Horde (21HD),Swarm of Insects,alias
+SdkWPwwzhCLrZrL8,Horde (3HD),Swarm of Insects,alias
+98EhNlNizCi4QlX0,Horde (5HD),Swarm of Insects,alias
+zCQAmOhyYj1RLX2R,Horde (7HD),Swarm of Insects,alias
+b2v2pw0KSCSDbKY6,Horde (9HD),Swarm of Insects,alias
+fc3OOJdQrP3lojfv,Bandit,Bandit,exact
+RCPlgt1j0WEJmVMO,Bandit (2HD),Bandit,exact
+iraH01OroqdGro5l,Bandit (3HD),Bandit,exact
+rcNI8ENf9jLEaPRa,Berserker,Berserker,exact
+tRFwfLgZS4oCLlNn,"Human, Brigand",Bandit,alias
+lkOr6L85z5Ik0O9d,"Human, Buccaneer",Humans/Buccaneer,alias
+pmLjm0Ds2DrDFDaz,"Human, Dervish",Humans/Dervish,alias
+1FxBKWAfojOQ0qBn,"Human, Noble",Noble,alias
+jYSPJwYKvsbkNi4m,"Human, Nomad",Tribal Warrior,alias
+dqSsB1Lx4jHCLBIO,"Human, Pirate",Humans/Buccaneer,alias
+Yw2aMmoGR4QRp33g,"Human, Trader",Commoner,alias
+kDl71qaMaLB7XFhb,Normal Human,Humans/Normal,alias
+5YA0ss39Kg7CME8M,"Hydra, Flying (5HD)",Hydra,structural
+DhFUzQrBEGkDY6yC,"Hydra, Flying (6HD)",Hydra,structural
+KLH7YQBUsLIq11Aq,"Hydra, Flying (7HD)",Hydra,structural
+uwscaGss3xIyLTUq,"Hydra, Flying (8HD)",Hydra,structural
+AVVx6uCSpyIcAclH,"Hydra, Flying (9HD)",Hydra,structural
+Z24w8lQbhaEGKTu7,"Hydra, Regenerating (5HD)",Hydra,structural
+E8HE1W8m8rg5kjwl,"Hydra, Regenerating (6HD)",Hydra,structural
+FhsSTT6nAoP3pTXT,"Hydra, Regenerating (7HD)",Hydra,structural
+ZqoZXBukthRJC1Dd,"Hydra, Regenerating (8HD)",Hydra,structural
+RPPdGzkbwCIYvf2X,"Hydra, Regenerating (9HD)",Hydra,structural
+CIhVHR0TxJyo6v8n,"Hydra, Sea (5HD)",Hydra,structural
+mJMK2svX7xbYomjT,Hydra (10HD),Hydra,exact
+JdKk4HZVUhXkrKPz,Hydra (11HD),Hydra,exact
+Ym7zlvIyprCNPTa4,Hydra (12HD),Hydra,exact
+n38wgSBUceafJ6a6,Hydra (5HD),Hydra,exact
+K9pIfKYqFGY0MsXA,Hydra (6HD),Hydra,exact
+XSk7palknSt0AJF5,Hydra (7HD),Hydra,exact
+bAgZcatpzVgMOimm,Hydra (8HD),Hydra,exact
+2VNfb1VkjOun8xHv,Hydra (9HD),Hydra,exact
+CBGtGNhW9lzrK6Fx,Hydrax*,Giant Crab,alias
+46QLGSlGDLxcIg4D,Insect Swarm (2 HD),Swarm of Insects,alias
+Umq3U1ICORIFSwfP,Insect Swarm (3 HD),Swarm of Insects,alias
+riVXLsP8TWWXRRIA,Insect Swarm (4 HD),Swarm of Insects,alias
+HJ6UrCjtPOJeqaTN,Invisible Stalker (Sshai),Invisible Stalker,exact
+ksBFKbkxoksOtZ5E,"Kobold, Bodyguard",Kobold,alias
+LrFyA3hSCWV8vBQr,Kobold,Kobold,exact
+ZL3EScZF34Mluma5,Kobold Chieftain,Kobold,alias
+zUrq2sYPpyIWRLHQ,Kryst*,Kryst,alias
+ijlnRpZ8vi3C5hNm,Lava Ooze,Magma Mephit,alias
+GgTjHx9hRlrtiCFy,"Leech, Giant","Leech, Giant",alias
+z3i3b4h8PGmJAaxJ,"Lich, Cleric (21HD)*",Lich,alias
+ksl26vU8MxdukAAc,"Lich, Cleric (22HD)*",Lich,alias
+mATn2WkD17LGV7NS,"Lich, Cleric (23HD)*",Lich,alias
+4A1oRjGhLaNFK3Z4,"Lich, Cleric (24HD)*",Lich,alias
+7ikBUYJKGiD68g04,"Lich, Cleric (25HD)*",Lich,alias
+b2gQd62QPrW5wsLc,"Lich, Cleric (26HD)*",Lich,alias
+VbXHYWOG3qcOJt03,"Lich, Cleric (27HD)*",Lich,alias
+zHeM89ZdM9LTPWAz,"Lich, Cleric (28HD)*",Lich,alias
+ITLXlrFKgNFsTG3R,"Lich, Cleric (29HD)*",Lich,alias
+p3HohYyc5fGAyp4n,"Lich, Cleric (30HD)*",Lich,alias
+ifMDqR0dvWfL1co7,"Lich, Cleric (31HD)*",Lich,alias
+orTivStxQqKwVSoC,"Lich, Cleric (32HD)*",Lich,alias
+TVujRGVj5Gf6E5db,"Lich, Cleric (33HD)*",Lich,alias
+YRPoNOwOZkAxaOLy,"Lich, Cleric (34HD)*",Lich,alias
+kzwarUl72wZdxMac,"Lich, Cleric (35HD)*",Lich,alias
+34IWhiHrAdsRCzBY,"Lich, Cleric (36HD)*",Lich,alias
+riC4HwvB3CNEUMp1,"Lich, Magic-User (21HD)*",Lich,alias
+fZWceTnPxNlIx0Cs,"Lich, Magic-User (22HD)*",Lich,alias
+YxU8OxNpQ8w4Acbk,"Lich, Magic-User (23HD)*",Lich,alias
+2utkjh0YNYX5JR02,"Lich, Magic-User (24HD)*",Lich,alias
+RlOSa1iDeBHVZCg3,"Lich, Magic-User (25HD)*",Lich,alias
+2QH0fdCXXlFAgy16,"Lich, Magic-User (26HD)*",Lich,alias
+gMVSMRny2HCdsvg3,"Lich, Magic-User (27HD)*",Lich,alias
+pZNDc29Ytq794V6u,"Lich, Magic-User (28HD)*",Lich,alias
+uJ3tQNWByb5OREpp,"Lich, Magic-User (29HD)*",Lich,alias
+zBIohZZEP11IFQna,"Lich, Magic-User (30HD)*",Lich,alias
+GCVeG8fxZwX1Gzw4,"Lich, Magic-User (31HD)*",Lich,alias
+37AmrQ33U3w2ieRw,"Lich, Magic-User (32HD)*",Lich,alias
+6mJLqJYHCUazR6Lo,"Lich, Magic-User (33HD)*",Lich,alias
+fk4lg17jeiScBDjB,"Lich, Magic-User (34HD)*",Lich,alias
+608xE8RzCy0HinE3,"Lich, Magic-User (35HD)*",Lich,alias
+OhvtxhU0DxXZbRGi,"Lich, Magic-User (36HD)*",Lich,alias
+BdUPcdGAJLxUvwgO,"Lizard, Draco",Giant Lizard,alias
+p2HAYW2LlRYOPOiv,"Lizard, Gecko",Giant Lizard,alias
+hCpC0eX5RHU1z6cG,"Lizard, Horned Chameleon",Giant Lizard,alias
+RjJiJmaFm2Y81NT5,"Lizard, Tuatara",Giant Lizard,alias
+6rv1LKd6FIieRApr,Lizard Man,Lizardfolk,alias
+FjP8pYyNbpgqHwq8,"Locust, Giant",Giant Wasp,alias
+b1qtWSbA3Etjwkr0,Lupin,Lupin,alias
+VJlWY3tKSm9JM7jS,"Lycanthrope, Devil Swine*",Lycanthropes/Devil Swine,alias
+5cV8HJzPnKBnQmaC,"Lycanthrope, Werebat*",Lycanthropes/Werebat,alias
+6hjGF6YQqdBvvMS7,"Lycanthrope, Werebear*",Lycanthropes/Werebear,alias
+3CvtVynSBywJGlxi,"Lycanthrope, Wereboar*",Lycanthropes/Wereboar,alias
+WJytkof5lsHZMTZA,"Lycanthrope, Werefox*",Lycanthropes/Werefox,alias
+9YkdFwvOyR1jMv0d,"Lycanthrope, Wererat*",Lycanthropes/Wererat,alias
+LkDpOkQ2GggWq9AY,"Lycanthrope, Wereseal*",Lycanthropes/Wereseal,alias
+bpFa4h1CwJSrcxMq,"Lycanthrope, Wereshark*",Lycanthropes/Wereshark,alias
+VdCp0J7KP6O47sh0,"Lycanthrope, Weretiger*",Lycanthropes/Weretiger,alias
+tMx78dywgwuL5NJW,"Lycanthrope, Werewolf*",Lycanthropes/Werewolf,alias
+SILtVA3n2wCVO1Wj,"Lycanthrope, Werewolf Leader*",Lycanthropes/Werewolf,alias
+KQaOYc4nrf8W0VtE,"Magen, Caldron",Magen/Caldron,alias
+1yYn5PRbyW9Dcmc4,"Magen, Demos",Magen/Demos,alias
+D1NrchtQA2quPlvy,"Magen, Galvan",Magen/Galvan,alias
+stgDGNUMQMHj9u6C,"Magen, Hypnos",Magen/Hypnos,alias
+hKbXw53EUrd6w4CH,Malfera*,Malfera,alias
+vOcSXJoGVuWdkz6u,Manscorpion (8HD),Manscorpion,alias
+PFEP0r6M0XA2Dorp,Manscorpion Cleric (10HD),Manscorpion,alias
+5ABLmtaQgdPo2yk0,Manscorpion Cleric (11HD),Manscorpion,alias
+jDaoh5Vd5F7l0phv,Manscorpion Cleric (12HD),Manscorpion,alias
+MHa1jXfUTiZXhsVB,Manscorpion Cleric (13HD),Manscorpion,alias
+3oAcuc7pI7Dq0Hvi,Manscorpion Cleric (8HD),Manscorpion,alias
+1WsLyWCHxwfsQXl3,Manscorpion Cleric (9HD),Manscorpion,alias
+1KSNJHMeKLmRKmsF,"Manta Ray, Giant",Manta Ray,alias
+k0jeAZK5q8mYFZO4,"Manta Ray, Normal",Manta Ray,alias
+ChXygNMqR7jeDNk7,Manticore,Manticore,alias
+VdNvGmW4nfZa8u8P,"Medusa, Elemental Plane of Earth",Medusa,structural
+CbLFxjJOLryKlL0R,Medusa,Medusa,exact
+dy1bqpP9m0iY68Xk,Mek (11HD),Mek,alias
+Y2fjE7CwsyqHKKbc,Mek (12HD),Mek,alias
+b1pVfhwgmjC69Ato,Mek (13HD),Mek,alias
+kqcg6PuOaVYcNZgp,Mek (14HD),Mek,alias
+fRAfrcYoSksR3fVy,Mek (15HD),Mek,alias
+kT99meDggGZqw8Fe,Mek (16HD),Mek,alias
+Cq05Ro7dnW8DRN23,Merman,Merfolk,alias
+eTBYUTMe8lWhkxfO,Merman Leader (2HD),Merfolk,alias
+9geMmbr5zEyQn0NC,Merman Leader (4HD),Merfolk,alias
+m56dpFMj1EAAh5WY,"Metamorph, Leader",Metamorph,alias
+cjMUSor7lefQLGMj,Metamorph,Metamorph,alias
+Zsz1W8iaFkygssMk,Minotaur,Minotaur,exact
+xM7S8gONcHtrN7SM,Camel,Camel,alias
+RjQyqdheiXyejdwJ,Draft Horse,Draft Horse,alias
+hQDO0pDaKZ0ofP62,"Horse, Riding",Riding Horse,structural
+FqG0R2jI1idSQnB5,Mule,Mule,alias
+eYuQLjP78z7C0xJ2,Pony,Pony,exact
+we9qqWbG0h3fXmYX,War Horse,Warhorse,alias
+8Rj9AY945sTIEEK8,Mujina,Mujina,alias
+nBLaG6JjFPvk8RWt,Mummy*,Mummy,exact
+2eHNxX4vGFbjboaz,"Neanderthal, Leader",Neanderthal,alias
+we26j5H2VH0BdIXi,Neanderthal,Neanderthal,alias
+DwmBZg0ChBtJ1DiT,Nekrozon,Nekrozon,alias
+YKNCrnmKSW5vPUiC,"Nightshade, Nightcrawler (25HD)*",Purple Worm,alias
+rtsX344cV9FjmYVo,"Nightshade, Nightcrawler (26HD)*",Purple Worm,alias
+dZhXSXYS2mzWD3SX,"Nightshade, Nightcrawler (27HD)*",Purple Worm,alias
+LEpgO3vWBdFmMeRn,"Nightshade, Nightcrawler (28HD)*",Purple Worm,alias
+YpZyK2yMryiOsgqj,"Nightshade, Nightcrawler (29HD)*",Purple Worm,alias
+VLllqxydiis0lI03,"Nightshade, Nightcrawler (30HD)*",Purple Worm,alias
+eNlQkNTiZK6bN9Qj,"Nightshade, Nightwalker (21HD)*",Shadow,alias
+9EtaIxdjNrXaUnZl,"Nightshade, Nightwalker (22HD)*",Shadow,alias
+GjZgRNSOKIeQ3lKA,"Nightshade, Nightwalker (23HD)*",Shadow,alias
+rucmyhDi0SWdM4l5,"Nightshade, Nightwalker (24HD)*",Shadow,alias
+Ts8xcdmHHkdA3spW,"Nightshade, Nightwalker (25HD)*",Shadow,alias
+05bBlAyUEaYfxZQ8,"Nightshade, Nightwalker (26HD)*",Shadow,alias
+jYiUffIy66Mb2YX8,"Nightshade, Nightwing (17HD)*",Shadow,alias
+gxcOurj3WNVxZogn,"Nightshade, Nightwing (18HD)*",Shadow,alias
+tT5PkWsUWaEMalaq,"Nightshade, Nightwing (19HD)*",Shadow,alias
+jhAiX0UYsfqZD9Tc,"Nightshade, Nightwing (20HD)*",Shadow,alias
+zlL7KhuxMsd4xeqc,Nixie,Sprite,alias
+D94FI1tdDlTj19ue,Nuckalavee,Nuckalavee,alias
+Q8aL94FCQODJRQ9B,Ochre Jelly*,Ochre Jelly,alias
+R811fYr1SDwwKNGd,Ogre,Ogre,exact
+JNrudHb64zpfOJA5,"Orc, Chieftain",Orc War Chief,alias
+ksBY6HIuAo5RhU3E,"Orc, Leader",Orc,alias
+x8wcYxKMfc0JxmnU,Orc,Orc,exact
+1uySBcvKAk9H3QnM,Owlbear,Owlbear,exact
+l4JcE9LQPmYQl3tW,Pegasus,Pegasus,alias
+vEoO8HXL23Q653eN,"Phantom, Apparition*",Ghost,alias
+UBmTQ7d7bpdUj7j4,"Phantom, Shade*",Shadow,alias
+2ObdyqvDteQGsm5l,"Phantom, Vision*",Specter,alias
+xEDkmcUl2qFocEAw,"Phoenix, Greater*",Phoenix,alias
+QuqmVlk1H00zINn1,"Phoenix, Lesser*",Phoenix,alias
+iyFIu2ealciOWv8b,Pixie,Pixie,alias
+L3ZhzYahkX0Z6OTI,"Plasm, Giant*",Plasm,alias
+8WTKbklRYhmcmJVq,"Plasm, Normal*",Plasm,alias
+ZIDlZCyqnIU4woLo,Purple Worm,Purple Worm,alias
+4x7yrjA0lbctlBc7,Rakasta,Rakasta,alias
+GHYGJYLKElPllGO9,"Rat, Giant",Rat,structural
+kBPV3IhfaM1Zh8m4,"Rat, Normal",Rat,alias
+MRYlnRSvm0fk4ml3,Revener,Revenant,alias
+1HFdNum5FcVKAtXp,Rhagodessa,Giant Spider,alias
+6BNXNVaeWSfP1h1P,Robber Fly,Giant Wasp,alias
+nS6ydAzvkJ25n6SP,"Roc, Giant",Giant Eagle,alias
+0D0KdaurlhperBus,"Roc, Large",Giant Eagle,alias
+1bXlFR0ultbdD3t7,"Roc, Small",Giant Eagle,alias
+FoegzkcfGSiKi9by,Rust Monster,Rust Monster,alias
+DQ4X4w5ArRsS9Pc1,"Salamander, Flame*",Salamander,alias
+ZkTee9uM37Cov1wW,"Salamander, Frost*",Ice Mephit,alias
+R4936pFbhRwLs4Zs,Sasquatch,Yeti,alias
+ADrQi5xk73eXMTXz,"Scorpion, Giant",Scorpion,structural
+vrLI7AenWNUxigst,Shadow*,Shadow,exact
+QP2jTj0DuuZfQRt2,"Shark, Bull",Hunter Shark,alias
+UNuq2tFN4aWhWf5A,"Shark, Great White",Giant Shark,alias
+liQI7wsZUDtPxe6S,"Shark, Mako",Hunter Shark,alias
+gh2b66IEVv7vOAWN,"Shrew, Giant",Giant Rat,alias
+tmNJdVGt2tQk6B4R,Shrieker,Shrieker,exact
+FZMd1uzbkuPkrIER,Skeleton,Skeleton,exact
+FIFnFyLFQBJpo4Q0,"Snake, Giant Racer",Giant Poisonous Snake,alias
+vq9IpKuw5iId4FYe,"Snake, Giant Rattler",Giant Poisonous Snake,alias
+3aTlHWeNiA4JEzhP,"Snake, Pit Viper",Poisonous Snake,alias
+1oio96mRSj8Owe2H,"Snake, Rock Python",Constrictor Snake,alias
+EsBz6dP3I7VWrP2o,"Snake, Sea Snake",Poisonous Snake,alias
+ODC8zPQoOk28JAQ6,"Snake, Spitting Cobra",Poisonous Snake,alias
+sfn21pZi0fhMGDqw,Spectral Hound*,Spectral Hound,alias
+wzWOIB8UDE7BQmYs,Spectre,Specter,alias
+L0C6hYNh1Lp4Qi3R,Sphinx (Female)*,Sphinx,alias
+lD5sgLbignWx8gxu,Sphinx (Male)*,Sphinx,alias
+UnlyQAcCBUS63xKd,"Spider, Giant (Black Widow)",Spider,structural
+wREIzpLSLM49HnU1,"Spider, Giant (Crab Spider)",Spider,structural
+iJ7j1FXCvNGwiKYh,"Spider, Giant (Tarantella)",Spider,structural
+1S3ydFC88MFg4fpz,"Spider, Planar (10 HD)",Phase Spider,alias
+8huwq4iizF0Mbbod,"Spider, Planar (5 HD)",Phase Spider,alias
+UVS1XekIJqnfyXPo,"Spider, Planar (6 HD)",Phase Spider,alias
+BMJhp6fo5pmMn5ft,"Spider, Planar (7 HD)",Phase Spider,alias
+RHcr0sJPatpgRbqP,"Spider, Planar (8 HD)",Phase Spider,alias
+5VkABOu0TcZFsOyp,"Spider, Planar (9 HD)",Phase Spider,alias
+68mi9MYvttCrn0w5,"Spirit, Druj*",Flameskull,alias
+2JKghHgGUjMXoXj5,"Spirit, Odic*",Awakened Tree,alias
+iohXcV0EMM6uVEQo,"Spirit, Revenant*",Revenant,alias
+GcqgrhE3mc3m3pH3,Sporacle,Beholder,alias
+88vu5Wa1tNsn4x34,Sprite,Sprite,alias
+Thj5dPOuKmXxiGff,"Statue, Living Crystal",Animated Armor,alias
+2tVX8bbncHdFQQkf,"Statue, Living Iron",Animated Armor,alias
+zCMxCoDpn1J8gehX,"Statue, Living Rock",Animated Armor,alias
+TO5d1EBIWdJ5f7d5,Stirge,Stirge,alias
+Rpz3whxF5ZlWYMdB,"Termite, Water (Fresh Water)","Termite, Water",alias
+NvGG1BAcJ17vKANj,"Termite, Water (Salt Water)","Termite, Water",alias
+ecDYjGHXmlWgJzY7,"Termite, Water (Swamp)","Termite, Water",alias
+UtG2e4IznhIDIw09,Thoul,Ghoul,alias
+PlcMTmhhbkMWh6JY,Thug (10HD),Thug,exact
+yHufJiYAkFWc8snV,Thug (11HD),Thug,exact
+fk5KRvHfzbANipKJ,Thug (12HD),Thug,exact
+8OgsW6WoF1y3nLay,Thug (1HD),Thug,exact
+ZhrBBGxI1U1Usgvy,Thug (2HD),Thug,exact
+q12kOJgtkvmegxJY,Thug (3HD),Thug,exact
+JrMDnuPb4XK84F0h,Thug (4HD),Thug,exact
+yfRQBfsbraieltkg,Thug (5HD),Thug,exact
+fXPJkDCHgBkTHtBv,Thug (6HD),Thug,exact
+vAgDIKyJFw8DzDtq,Thug (7HD),Thug,exact
+5WeIsEFpXayuUnYn,Thug (8HD),Thug,exact
+FOdgpftUK0v6NsmB,Thug (9HD),Thug,exact
+MsJQR0fiR7ULTryi,"Toad, Giant",Giant Toad,structural
+EhZI4yZAgrL137Ns,"Toad, Rock/Cave",Giant Toad,alias
+qAqnOTZKwi0J5UyR,Treant,Treant,exact
+NiiZGvS7vbajX1n8,Troglodyte,Troglodyte,exact
+KH8vjTQaWJ1CEjlp,Troll,Troll,exact
+qIeZcyIyHgCxB8Z3,Undine*,Water Elemental,alias
+zeO7AilbaN8pCcTx,Unicorn,Unicorn,alias
+O5RtaMakaiWqZFMS,Vampire* (Bat),Vampire Spawn,alias
+COHYWaHxKVXSVX2c,Vampire* (Dire Wolf),Vampire Spawn,alias
+IrVeVqYgAdlGhhEd,Vampire* (Human),Vampire Spawn,alias
+dbsVzcF1lXKoRaST,"Weasel, Giant",Weasel,structural
+gH8fqUXrPnTirtmq,"Whale, Great",Killer Whale,alias
+jJa5elJncCPVR6mv,"Whale, Killer",Killer Whale,structural
+djfZfj0VdfYE73Yq,"Whale, Narwhal",Killer Whale,alias
+ZfcAxCNjJXUQ7I5M,Wight*,Wight,exact
+t8oTnKOxvMY04A2t,Wraith*,Wraith,exact
+iW9kMvGOdIPfa650,Wyvern,Wyvern,alias
+RDng9w4AKnph2koA,Yellow Mold,Ochre Jelly,alias
+fIxgBWMahQGjjZuP,Zombie,Zombie,exact

@@ -5,3 +5,4 @@ node_modules
 /notes.txt
 /.cursor
 /.vscode
+/scripts/generate-art-map.mjs
