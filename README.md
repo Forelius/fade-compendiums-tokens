@@ -1,4 +1,6 @@
 # Fantastic Depths Compendiums Tokens
+![image](https://img.shields.io/endpoint?url=https%3A%2F%2Ffoundryshields.com%2Fversion%3Fstyle%3Dflat%26url%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2FForelius%2Ffantastic-depths%2Frefs%2Fheads%2Fstable%2Fsystem.json)
+![image](https://img.shields.io/endpoint?url=https%3A%2F%2Ffoundryshields.com%2Fsystem%3FnameType%3Dfull%26style%3Dflat%26url%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2FForelius%2Ffade-compendiums%2Frefs%2Fheads%2Fstable%2Fmodule.json)
 
 <img width="832" height="618" alt="image" src="https://github.com/user-attachments/assets/60578b96-113c-4b5d-88fe-ef5398ccb6bb" />
 
