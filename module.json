@@ -3,8 +3,8 @@
   "title": "Fantastic Depths Compendiums Tokens",
   "version": "#{VERSION}#",
   "compatibility": {
-    "minimum": "11",
-    "verified": "13",
+    "minimum": "14",
+    "verified": "14",
     "maximum": "14"
   },
   "description": "<p><strong>Fantastic Depths Compendiums Tokens</strong></p><p>Token artwork for Fantastic Depths monsters, applied automatically to fade-compendiums actors when this module is enabled.</p>",
